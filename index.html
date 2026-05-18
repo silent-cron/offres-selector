@@ -299,6 +299,7 @@
   <button class="zone-btn" onclick="setSource('apec',this)">APEC</button>
   <button class="zone-btn" onclick="setSource('jobspy',this)">JobSpy</button>
   <button class="zone-btn" onclick="setSource('talentplug',this)">Talentplug</button>
+  <button class="zone-btn" onclick="setSource('lba',this)">Alternance LBA</button>
   <button class="zone-btn" onclick="setSource('other',this)">Autres</button>
 </div>
 
@@ -365,6 +366,7 @@ function normalizeSource(s) {
   if (v.includes("france travail") || v.includes("ft") || v.includes("francetravail") || v.includes("pole emploi")) return "ft";
   if (v.includes("indeed")) return "indeed";
   if (v.includes("apec")) return "apec";
+  if (v.includes("lba") || v.includes("alternance") || v.includes("bonne alternance")) return "lba";
   if (v.includes("jobspy") || v.includes("linkedin") || v.includes("glassdoor")) return "jobspy";
   if (v.includes("talentplug")) return "talentplug";
   if (v.includes("hellowork") || v.includes("cadremploi") || v.includes("meteojob") ||
