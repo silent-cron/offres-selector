@@ -427,12 +427,12 @@ fetch(RAW_JSON + "?t=" + Date.now())
     const now = new Date().toLocaleString("fr-FR");
     document.getElementById("header-info").textContent =
       allOffers.length + " offres · mis à jour le " + now;
-    renderCards();
+    try { renderCards(); } catch(renderErr) { console.error("Erreur rendu:", renderErr); }
   })
   .catch(e => {
     document.getElementById("loading").style.display = "none";
     document.getElementById("error-msg").style.display = "block";
-    console.error(e);
+    console.error("Erreur chargement JSON:", e);
   });
 
 // ── Rendu ────────────────────────────────────────────────────────────────────
