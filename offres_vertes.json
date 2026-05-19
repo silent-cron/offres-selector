@@ -1,7 +1,7 @@
 {
-  "generated_at": "19/05/2026 17:53",
-  "total": 129,
-  "vertes": 96,
+  "generated_at": "19/05/2026 17:59",
+  "total": 130,
+  "vertes": 97,
   "bleues": 33,
   "offres": [
     {
@@ -243,6 +243,22 @@
       "niveau": 1,
       "raison": "CDI restauration",
       "jours_anciennete": 64
+    },
+    {
+      "source": "Indeed",
+      "id": "0193cbe00bdb",
+      "titre": "Serveur/Barman H/F",
+      "entreprise": "ESPERANTO",
+      "ville": "Lyon 6e, ARA, FR",
+      "contrat": "parttime",
+      "salaire": "",
+      "description": "L’Esperanto est un restaurant convivial situé à Lyon 6 et Lyon 2, où l’on vient autant pour bien manger que pour passer un bon moment.\n\nNotre cuisine est généreuse, moderne et pensée pour le partage, dans une ambiance vivante et chaleureuse. Nous accordons une grande importance à l’accueil, au rythme du service et à l’expérience client, tout en gardant une atmosphère simple et accessible.\n\nNous travaillons avec des petites équipes, la bonne ambiance et la solidarité y sont présent et essentiels.",
+      "url": "https://fr.indeed.com/viewjob?jk=99da2ac0edcde505",
+      "date": "2026-05-19",
+      "domaine": "RESTO",
+      "niveau": 2,
+      "raison": "Serveur/se / chef de rang",
+      "jours_anciennete": 0
     },
     {
       "source": "Indeed",
