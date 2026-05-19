@@ -1,8 +1,8 @@
 {
-  "generated_at": "18/05/2026 20:30",
-  "total": 128,
+  "generated_at": "19/05/2026 17:40",
+  "total": 129,
   "vertes": 96,
-  "bleues": 32,
+  "bleues": 33,
   "offres": [
     {
       "source": "France Travail",
@@ -18,7 +18,7 @@
       "domaine": "BIM",
       "niveau": 1,
       "raison": "BIM/Revit dans titre · CDI",
-      "jours_anciennete": 5
+      "jours_anciennete": 6
     },
     {
       "source": "France Travail",
@@ -34,7 +34,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 6
+      "jours_anciennete": 7
     },
     {
       "source": "France Travail",
@@ -50,7 +50,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 6
+      "jours_anciennete": 7
     },
     {
       "source": "France Travail",
@@ -66,7 +66,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 7
+      "jours_anciennete": 8
     },
     {
       "source": "France Travail",
@@ -82,7 +82,7 @@
       "domaine": "BIM",
       "niveau": 1,
       "raison": "BIM/Revit dans titre · entreprise cible",
-      "jours_anciennete": 9
+      "jours_anciennete": 10
     },
     {
       "source": "France Travail",
@@ -98,7 +98,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -114,7 +114,7 @@
       "domaine": "BIM",
       "niveau": 1,
       "raison": "BIM/Revit dans titre · CDI",
-      "jours_anciennete": 19
+      "jours_anciennete": 20
     },
     {
       "source": "France Travail",
@@ -130,7 +130,7 @@
       "domaine": "BIM",
       "niveau": 1,
       "raison": "BIM/Revit dans titre · CDI",
-      "jours_anciennete": 19
+      "jours_anciennete": 20
     },
     {
       "source": "France Travail",
@@ -146,7 +146,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 20
+      "jours_anciennete": 21
     },
     {
       "source": "France Travail",
@@ -162,7 +162,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 25
+      "jours_anciennete": 26
     },
     {
       "source": "France Travail",
@@ -178,7 +178,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 25
+      "jours_anciennete": 26
     },
     {
       "source": "France Travail",
@@ -194,7 +194,7 @@
       "domaine": "BIM",
       "niveau": 1,
       "raison": "BIM/Revit dans titre · CDI",
-      "jours_anciennete": 38
+      "jours_anciennete": 39
     },
     {
       "source": "France Travail",
@@ -210,7 +210,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 52
+      "jours_anciennete": 53
     },
     {
       "source": "France Travail",
@@ -226,7 +226,7 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 54
+      "jours_anciennete": 55
     },
     {
       "source": "France Travail",
@@ -242,7 +242,39 @@
       "domaine": "RESTO",
       "niveau": 1,
       "raison": "CDI restauration",
-      "jours_anciennete": 63
+      "jours_anciennete": 64
+    },
+    {
+      "source": "Indeed",
+      "id": "786c615864fd",
+      "titre": "Serveur restaurant et épicerie italienne",
+      "entreprise": "Lello",
+      "ville": "Lyon, ARA, FR",
+      "contrat": "fulltime",
+      "salaire": "",
+      "description": "**LELLO recrute un·e serveur / vendeur épicerie / restaurant (H/F)**  \n**Halles Paul Bocuse – Lyon**\n\nNotre établissement est à la fois un restaurant et une épicerie italienne. Nous sommes à la recherche de la prochaine personne qui viendra compléter notre Squadra. A l'aise au service comme dans la vente.\n\n**Tes missions au quotidien :**\n\n* **Ouverture** du stand\n* **Service en salle** le matin (café), midi et les week\\-end pour une capacité d'une trentaine de places assises\n* **Mise en place et",
+      "url": "https://fr.indeed.com/viewjob?jk=bfc01307ff46dc74",
+      "date": "2026-05-19",
+      "domaine": "RESTO",
+      "niveau": 2,
+      "raison": "Serveur/se / chef de rang",
+      "jours_anciennete": 0
+    },
+    {
+      "source": "Indeed",
+      "id": "f5e00010c234",
+      "titre": "Serveur/Serveuse/Runneuse H/F",
+      "entreprise": "ristorante pizzeria",
+      "ville": "Caluire-et-Cuire, ARA, FR",
+      "contrat": "fulltime",
+      "salaire": "",
+      "description": "bonjour nous recherchon un/e serveur/se pour le service du midi et soir\n\ndepuis le mois de mai jusqu'a fin aout/septembre\n\ncontrat cdd smic 1400\n\nmardi au samedi ( du mardi au vendredi les midi et soir et samedi les soir)35h\n\nhoraires 10 30 \\-15 19\\.30 \\-23\\.30\n\nexperience dans la restauration classique exigee. tache principales : menage du restaurant, mise en place, service, debarassage, dressage de sale, prise de comande, preparation de boisson.\n\nNous cherchons personne motivé avec envie de tr",
+      "url": "https://fr.indeed.com/viewjob?jk=0763983c0363335f",
+      "date": "2026-05-19",
+      "domaine": "RESTO",
+      "niveau": 2,
+      "raison": "Serveur/se / chef de rang",
+      "jours_anciennete": 0
     },
     {
       "source": "Indeed",
@@ -254,7 +286,7 @@
       "salaire": "",
       "description": "***Temps partiel \\- 10h \\- soir et week end \\-\\-\\> Possibilité de passage en 15h à partir de septembre***\n\nQu'est ce que c'est Toké ? \\-\\> https://www.toke.eu/nous/\n\nUn restaurant de vente sur place et à emporter d'**empanadas** alliant praticité du fast good avec la qualité de vraies recettes cuisinées, riche en saveurs.\n\n3 adresses à Lyon :\n\n* Toké des Halles Paul Bocuse ,\n* Toké Berthelot,\n* Toké Sathonay,\n\nNous recrutons une nouvelle personne pour l'équipe de Toké des Halles !\n\n**Ce que nous",
       "url": "https://fr.indeed.com/viewjob?jk=9ce75e59e10a5f4f",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
@@ -270,7 +302,7 @@
       "salaire": "",
       "description": "**Serveur à temps partiel du lundi au vendredi de 11h45 à 14h15**\n\n**12,5 heures par semaine**\n\n**À propos de nous**\n\nLE BISTROT, c'est un restaurant et une boutique de vente à emporter dans le 3ème arrondissement de Lyon.\n\n**✅ Ambiance bistrot, service rapide et efficace**\n\n**✅ Du fait maison, frais et un excellent rapport qualité/prix**\n\n**✅ Service uniquement le midi, du lundi au vendredi (jamais le soir ni le week\\-end !)**\n\n**✅ Une équipe de 10 personnes sympathiques qui aiment bosser dans ",
       "url": "https://fr.indeed.com/viewjob?jk=f5abdc85b2fbb57b",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
@@ -286,7 +318,7 @@
       "salaire": "",
       "description": "**Description de l'entreprise** **Et si votre prochaine saison d’été se vivait au Novotel Lyon Bron Meeting \\& Events ?**\n\n\nRejoignez un hôtel de 192 chambres et son restaurant convivial, Le Gourmet Bron, où l’ambiance est aussi chaleureuse pour les clients que pour les équipes !\n\n\nIci, vous ne découvrez pas seulement un hôtel, mais un véritable lieu de vie moderne et accueillant, pensé pour les familles comme pour les voyageurs professionnels. Entre cuisine locale et gourmande, espaces de trava",
       "url": "https://fr.indeed.com/viewjob?jk=162039fafc4f8d6c",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
@@ -298,11 +330,11 @@
       "titre": "Chef de rang (F/H) - Semaine à 4 jours",
       "entreprise": "The Ruck Hôtel",
       "ville": "Lyon, ARA, FR",
-      "contrat": "fulltime",
+      "contrat": "nan",
       "salaire": "",
       "description": "Acteur de référence d’envergure internationale, **GL events** est présent sur les trois grands marchés de l’événementiel. Congrès, conventions, événements culturels, sportifs ou politiques, salons professionnels et grand public, le Groupe accompagne entreprises, institutions et collectivités pour imaginer, produire et accueillir des événements partout dans le monde. Créé à Lyon il y a plus de 45 ans et présent dans plus de 20 pays, il est animé par près de 6 000 collaborateurs !\n\n  \n\nSa filiale,",
       "url": "https://fr.indeed.com/viewjob?jk=bb14bac7a123b08b",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
@@ -318,23 +350,7 @@
       "salaire": "",
       "description": "**Le poste**\n\nIntégré(e) à notre équipe de salle, vous serez en charge d'assurer un service de qualité en déjeûner et/ou dîner, dans le respect de nos valeurs d'accueil et de convivialité.\n\n**Profil recherché**\n\n* Jovial(e), dynamique et naturellement à l'aise avec la clientèle\n* À l'aise dans un service soutenu tout en gardant le sourire\n* Esprit d'équipe et bonne humeur communicative\n* Expérience en restauration appréciée — débutant(e) motivé(e) accepté(e)\n* Sensibilité à la cuisine et à la cu",
       "url": "https://fr.indeed.com/viewjob?jk=443a1f1032b49bfc",
-      "date": "2026-05-18",
-      "domaine": "RESTO",
-      "niveau": 2,
-      "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 0
-    },
-    {
-      "source": "Indeed",
-      "id": "b3b2f72e3972",
-      "titre": "Chef de rang restaurant H/F",
-      "entreprise": "Café l'Edgar Quinet",
-      "ville": "Lyon 6e, ARA, FR",
-      "contrat": "fulltime",
-      "salaire": "",
-      "description": "Café l'Edgar Quinet, Brasserie traditionnelle, 30 avenue de saxe 69006 LYON,\n\ncherche CHEF DE RANG avec experience.\n\nSalaire entre **2100€ et 2300€ net** selon experience pour 42h/44h de travail/semaine\n\nPossibilités d’évolution.\n\n3 ans d’expérience minimum.\n\n**Cherche personne de confiance, ambitieuse et volontaire.**\n\n2 jours de repos consecutifs.\n\nTravaille le dimanche\n\ngroupes musicaux les jeudis soirs.\n\nEquipe jeune, dynamique et sympathique.\n\nPoste à pourvoir rapidement\n\nType d'emploi : Te",
-      "url": "https://fr.indeed.com/viewjob?jk=0c24277b5042c727",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
@@ -350,10 +366,42 @@
       "salaire": "",
       "description": "L'Agence Profil, agence d'accueil premium, filiale du groupe GL Events, 1er groupe intégré des métiers de l'événementiel, est un acteur de référence sur le marché de l'accueil en France.\n\n\nForte de 35 années d'expérience, l'Agence Profil propose, en France et à l'international, un service d'excellence alliant proximité, éthique et performances logistiques.\n\n\nL'agence est présente sur tout le territoire via ses implantations à Paris, Lyon, Marseille, Cannes, Strasbourg et Bordeaux. La société est",
       "url": "https://fr.indeed.com/viewjob?jk=5a2607edbc69fc35",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
+      "jours_anciennete": 0
+    },
+    {
+      "source": "France Travail",
+      "id": "208LMBX",
+      "titre": "Garçon / Serveuse de restaurant (H/F)",
+      "entreprise": "SIAM BISTROT",
+      "ville": "69 - LYON 03",
+      "contrat": "CDD - 3 Mois",
+      "salaire": "Horaire de 12.02 Euros",
+      "description": "Nous sommes à la recherche d'un.e serveur.euse pour rejoindre notre équipe : \n\nVos missions :\n- Accueil et prise en charge des clients\n- Prise de commandes et service des plats et boissons\n- Présentation du menu et des spécialités de la maison\n- Préparation et dressage des tables avant et après les services\n- Gestion des encaissements et établissement des factures\n- Maintien de la propreté des lieux de service\n- Collaboration avec l'équipe en cuisine pour assurer une bonne coordination\n\nVotre profil :\n- Souriant.e et avec le sens du contact client.\n- Motivé.e par le rythme soutenu des services.\n- Sérieux.se dans l'exécution des tâches, tout en étant joyeux.se et positif.ve.\n \nHoraires :\nLundi : 10h-14h30\nMardi : 10h-15h\nMercredi : 10h-15h/19h-22h30\nJeudi : 10h- 15h/19h-22h30\nVendredi : 10h-15h/19h-22h30\n\nAvantages :\n - Repos samedi-dimanche et lundi et mardi soir.\n- Repas inclus, ou indemnisés.\n- 50% des TCL pris en charge.\n- Mutuelle.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/208LMBX",
+      "date": "2026-05-19",
+      "domaine": "RESTO",
+      "niveau": 2,
+      "raison": "Serveur/se / chef de rang",
+      "jours_anciennete": 0
+    },
+    {
+      "source": "France Travail",
+      "id": "2760282",
+      "titre": "Technicien de maintenance CVC (H/F)",
+      "entreprise": "",
+      "ville": "69 - Lyon 5e Arrondissement",
+      "contrat": "CDI",
+      "salaire": "",
+      "description": "Description du poste :\nEn tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise EDF recherche actuellement des profils Dalkia Centre-Est recrute un.e Technicien.ne de maintenance CVC pour son centre Tertiaire Santé.\nPrêt.e à rejoindre l'équipe de Franck ? Vous intégrez notre équipe dédiée aux infrastructures critiques (Datacenters) sur la région Rhône-Alpes, avec un point d'attache basé à Lyon.\nVous intégrez un pôle d'une dizaine de techniciens spécialisés. En tant que technicien référent, vous êtes le garant de la disponibilité absolue et de la performance des équipements sur ces sites hautement sensibles.\nAlors, expert.e de la maintenance, et si on se projetait sur vos missions Piloter l'activité de maintenance, de dépannage et de petits travaux sur des sites techniques de type Datacenter.\n* Assurer la maintenance préventive et curative des installations frigorifiques (climatisation, groupes froids) dans le respect strict de la réglementation (F-GAZ Intervenir sur les équipements d'infrastructure électrique courant fort (armoires électriques Établir des modes opératoires précis pour les opérations critiques, en prenant en compte la haute sensibilité des installations.\n* Garantir la traçabilité complète de vos interventions et assurer un reporting rigoureux auprès de votre manager.\n* Intégrer le pôle d'astreinte Datacenter de la région pour assurer la continuité de service 24h/24 et 7j/7.\nPuisque la sécurité est notre priorité, vous êtes un acteur essentiel de la bonne application des règles Vous avez une formation Bac+2 (BTS, DUT, DEUST) en CVC, Froid ou Électrotechnique et justifiez d'une solide expérience de plus de 5 ans sur des installations complexes.***Vous maîtrisez le dépannage de la climatisation, des groupes froids et possédez de très bonnes compétences en électrotechnique Vous avez conscience des enjeux liés aux environnements critiques (Datacenters) et savez évaluer les risques avant chaque intervention Vous êtes autonome en itinérance et savez comprendre et appliquer des consignes techniques strictes ?\nAlors vous devriez candidater !\nCe que vous aurez en nous rejoignant :\nUne intégration organisée dès votre arrivée La sécurité du groupe EDF dans une entreprise à taille humaine.\nUn package de rémunération attractif pour ce niveau d'expertise Un salaire fixe versé sur 13,3 mois et d'une part variable,\n* Le choix de sa formule de RTT (0, 13 ou 23 Votre véhicule de service,\n* Intéressement et participation,\n* Des éléments variables : paniers repas, primes d'astreinte Une ancienneté valorisée dès votre 2e bougie de soufflée Les avantages du CSE : chèques cadeaux, culture, vacances Vous candidatez. et ensuite ?\n1. Vous avez un premier échange téléphonique avec Flavia.\n2. Si c'est un match, vous rencontrez en entretien Valérie.\n3. Si l'avis est favorable et que vous êtes toujours intéressé.e, vous rencontrez l'équipe de Franck !",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2760282",
+      "date": "2026-05-19",
+      "domaine": "BIM",
+      "niveau": 2,
+      "raison": "Metier proche (bureau etudes / CVC / DAO)",
       "jours_anciennete": 0
     },
     {
@@ -363,14 +411,14 @@
       "entreprise": "STAFFMATCH FRANCE 3",
       "ville": "69 - LYON",
       "contrat": "Intérim - 6 Mois",
-      "salaire": "Mensuel de 1824.0 Euros sur 12.0 mois",
-      "description": "À propos de Staffmatch\n\nCréée en avril 2015, l'entreprise se lance le pari de révolutionner le marché du travail temporaire et de casser les idées reçues des agences d'intérim traditionnelles. Pari réussi, Staffmatch affiche aujourd'hui une couverture nationale, une centaine de collaborateurs permanents et plus de 50 000 collaborateurs intérimaires.\n\nVos missions\n\n- Assurer la préparation des entrées et desserts,\n- Mettre en place le self,\n- Débarrasser et nettoyer la salle,\n- Participer au service,\n- Aider à la plonge du service\n- Caisse selon les établissements\n\nProfil recherché\n\n- Première expérience exigée dans le domaine de la restauration\n- Formation HACCP",
+      "salaire": "Mensuel de 1824.0 Euros sur 12 mois",
+      "description": "À propos de Staffmatch\n\nCréée en avril 2015, l'entreprise se lance le pari de révolutionner le marché du travail temporaire et de casser les idées reçues des agences d'intérim traditionnelles. Pari réussi, Staffmatch affiche aujourd'hui une couverture nationale, une centaine de collaborateurs permanents et plus de 50 000 collaborateurs intérimaires.\n\nVos missions\n\n- Assurer la préparation des entrées et desserts,\n- Mettre en place le self,\n- Débarrasser et nettoyer la salle,\n- Participer au service,\n- Aider à la plonge du service\n- Assurer l'encaissement selon les établissements\n\nProfil recherché\n\n- Première expérience exigée dans le domaine de la restauration\n- Formation HACCP",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/208KMWR",
       "date": "2026-05-18",
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 0
+      "jours_anciennete": 1
     },
     {
       "source": "France Travail",
@@ -386,7 +434,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 0
+      "jours_anciennete": 1
     },
     {
       "source": "France Travail",
@@ -402,7 +450,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 0
+      "jours_anciennete": 1
     },
     {
       "source": "France Travail",
@@ -418,7 +466,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 3
+      "jours_anciennete": 4
     },
     {
       "source": "France Travail",
@@ -434,7 +482,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 3
+      "jours_anciennete": 4
     },
     {
       "source": "France Travail",
@@ -450,7 +498,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 4
+      "jours_anciennete": 5
     },
     {
       "source": "France Travail",
@@ -466,7 +514,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 4
+      "jours_anciennete": 5
     },
     {
       "source": "France Travail",
@@ -482,7 +530,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 4
+      "jours_anciennete": 5
     },
     {
       "source": "France Travail",
@@ -498,7 +546,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 5
+      "jours_anciennete": 6
     },
     {
       "source": "France Travail",
@@ -514,7 +562,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 6
+      "jours_anciennete": 7
     },
     {
       "source": "France Travail",
@@ -530,7 +578,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 6
+      "jours_anciennete": 7
     },
     {
       "source": "France Travail",
@@ -546,7 +594,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 6
+      "jours_anciennete": 7
     },
     {
       "source": "France Travail",
@@ -562,7 +610,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "BIM/Revit dans titre",
-      "jours_anciennete": 6
+      "jours_anciennete": 7
     },
     {
       "source": "France Travail",
@@ -578,7 +626,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 7
+      "jours_anciennete": 8
     },
     {
       "source": "France Travail",
@@ -594,7 +642,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 9
+      "jours_anciennete": 10
     },
     {
       "source": "France Travail",
@@ -610,7 +658,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 9
+      "jours_anciennete": 10
     },
     {
       "source": "France Travail",
@@ -626,7 +674,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 11
+      "jours_anciennete": 12
     },
     {
       "source": "France Travail",
@@ -642,7 +690,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 11
+      "jours_anciennete": 12
     },
     {
       "source": "France Travail",
@@ -658,23 +706,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 11
-    },
-    {
-      "source": "France Travail",
-      "id": "2404767",
-      "titre": "Technicien de maintenance CVC (H/F)",
-      "entreprise": "",
-      "ville": "69 - Lyon 5e Arrondissement",
-      "contrat": "CDI",
-      "salaire": "",
-      "description": "Description du poste :\nRattaché à un responsable d'exploitation, vous prenez en charge un secteur géographique défini.\nVos missions principales seront les suivantes Réaliser la maintenance préventive et corrective des installations de chauffage.\n* Assurer les interventions de dépannage sur les équipements thermiques.\n* Diagnostiquer les dysfonctionnements et proposer les actions correctives adaptées.\n* Effectuer les réglages nécessaires sur les organes mécaniques, hydrauliques ou électroniques.\n* Intervenir sur les chaudières, brûleurs, équipements de traitement d'air et systèmes de régulation.\n* Participer à l'amélioration des performances énergétiques des installations.\n* Renseigner les rapports d'intervention et assurer le suivi technique des sites confiés.\n* Participer au dispositif d'astreinte après une période d'intégration.\nDescription du profil :\nVous êtes issu d'une formation technique en maintenance énergétique, génie climatique, chauffage, électrotechnique ou équivalent .\nVous justifiez idéalement d'une première expérience en maintenance CVC, chauffage collectif, chaufferie ou exploitation d'installations thermiques.\nVous êtes à l'aise avec le diagnostic de panne, les interventions terrain et la relation client. Des connaissances en brûleurs, hydraulique ou régulation seront appréciées.\nAu-delà de vos compétences techniques, vous êtes reconnu pour votre autonomie, votre rigueur et votre sens du service.\nConditions proposées***Poste en CDI\n* Véhicule de service\n* Rémunération fixe sur 13 mois\n* Primes, paniers repas, astreintes\n* Intéressement, participation et avantages salariés\nProcessus de recrutement Un entretien avec notre consultante Achil\n* Un entretien RH client\n* Un entretien avec votre futur manager",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2404767",
-      "date": "2026-05-07",
-      "domaine": "BIM",
-      "niveau": 2,
-      "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 11
+      "jours_anciennete": 12
     },
     {
       "source": "France Travail",
@@ -690,7 +722,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 11
+      "jours_anciennete": 12
     },
     {
       "source": "France Travail",
@@ -706,7 +738,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 11
+      "jours_anciennete": 12
     },
     {
       "source": "France Travail",
@@ -722,7 +754,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 12
+      "jours_anciennete": 13
     },
     {
       "source": "France Travail",
@@ -738,23 +770,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 12
-    },
-    {
-      "source": "France Travail",
-      "id": "2325618",
-      "titre": "Chargé d'Affaires Travaux CVC H/F",
-      "entreprise": "asap work",
-      "ville": "69 - Lyon 1er Arrondissement",
-      "contrat": "Intérim - 3 Mois",
-      "salaire": "Annuel de 45000.0 Euros à 55000.0 Euros",
-      "description": "POSTE : Chargé d'Affaires Travaux CVC H/F\nDESCRIPTION : Nous recherchons un Chargé d'affaires travaux CVC (H/F) pour rejoindre notre client basée à Lyon. Vous serez responsable de la gestion et du développement de projets dans le secteur du Chauffage, Ventilation et Climatisation (CVC), en veillant à la conformité, à la qualité, et à la rentabilité des affaires qui vous seront confiées.\n \nVos futures missions :\n- Pilotage et suivi des projets CVC depuis l'offre jusqu'à la réception des travaux.\n- Élaboration des offres techniques et commerciales, négociation avec les clients et les fournisseurs.\n- Gestion de la relation client et suivi de la satisfaction.\n- Coordination des équipes projets et sous-traitants.\n- Respect des normes de sécurité, de qualité et d'environnement.\n- Suivi financier des projets : budget, marge, facturation.\n \nOù : Lyon\nPour combien : 45 - 55KEUR annuel\nType de contrat : intérim\n-\nPROFIL : Entre nous ça va coller si vous avez :\n- De 3 à 6 années d'expérience dans la gestion de projets CVC, idéalement acquises dans une fonction similaire.\n- Un permis B valide (obligatoire pour ce poste), déplacements à prévoir principalement sur la région.\n- Un profil technique avec une bonne connaissance des systèmes CVC.\n- D'excellentes compétences en gestion de projets, en négociation et en communication.\n- La capacité à travailler de manière autonome et en équipe, avec un bon sens de l'organisation et du leadership.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2325618",
-      "date": "2026-05-06",
-      "domaine": "BIM",
-      "niveau": 2,
-      "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 12
+      "jours_anciennete": 13
     },
     {
       "source": "France Travail",
@@ -770,7 +786,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 13
+      "jours_anciennete": 14
     },
     {
       "source": "France Travail",
@@ -786,7 +802,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 13
+      "jours_anciennete": 14
     },
     {
       "source": "France Travail",
@@ -802,7 +818,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 13
+      "jours_anciennete": 14
     },
     {
       "source": "France Travail",
@@ -818,7 +834,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 13
+      "jours_anciennete": 14
     },
     {
       "source": "France Travail",
@@ -834,7 +850,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 14
+      "jours_anciennete": 15
     },
     {
       "source": "France Travail",
@@ -850,7 +866,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 16
+      "jours_anciennete": 17
     },
     {
       "source": "France Travail",
@@ -866,7 +882,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 17
+      "jours_anciennete": 18
     },
     {
       "source": "France Travail",
@@ -882,7 +898,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "BIM/Revit dans titre",
-      "jours_anciennete": 17
+      "jours_anciennete": 18
     },
     {
       "source": "France Travail",
@@ -898,7 +914,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "BIM/Revit dans titre",
-      "jours_anciennete": 17
+      "jours_anciennete": 18
     },
     {
       "source": "France Travail",
@@ -914,7 +930,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 17
+      "jours_anciennete": 18
     },
     {
       "source": "France Travail",
@@ -930,7 +946,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -946,7 +962,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -962,7 +978,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -978,7 +994,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -994,7 +1010,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -1010,7 +1026,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 19
+      "jours_anciennete": 20
     },
     {
       "source": "France Travail",
@@ -1026,7 +1042,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 20
+      "jours_anciennete": 21
     },
     {
       "source": "France Travail",
@@ -1042,7 +1058,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 20
+      "jours_anciennete": 21
     },
     {
       "source": "France Travail",
@@ -1058,7 +1074,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 20
+      "jours_anciennete": 21
     },
     {
       "source": "France Travail",
@@ -1074,7 +1090,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 21
+      "jours_anciennete": 22
     },
     {
       "source": "France Travail",
@@ -1090,7 +1106,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 22
+      "jours_anciennete": 23
     },
     {
       "source": "France Travail",
@@ -1106,7 +1122,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 24
+      "jours_anciennete": 25
     },
     {
       "source": "France Travail",
@@ -1122,7 +1138,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 25
+      "jours_anciennete": 26
     },
     {
       "source": "France Travail",
@@ -1138,7 +1154,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 25
+      "jours_anciennete": 26
     },
     {
       "source": "France Travail",
@@ -1154,7 +1170,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 25
+      "jours_anciennete": 26
     },
     {
       "source": "France Travail",
@@ -1170,7 +1186,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 26
+      "jours_anciennete": 27
     },
     {
       "source": "France Travail",
@@ -1186,7 +1202,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 27
+      "jours_anciennete": 28
     },
     {
       "source": "France Travail",
@@ -1202,7 +1218,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 27
+      "jours_anciennete": 28
     },
     {
       "source": "France Travail",
@@ -1218,7 +1234,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 34
+      "jours_anciennete": 35
     },
     {
       "source": "France Travail",
@@ -1228,29 +1244,13 @@
       "ville": "69 - STE FOY LES LYON",
       "contrat": "CDI",
       "salaire": "",
-      "description": "AGENT DE RESTAURATION A LA CRS 46 SAINTE FOY LES LYON \n\n\nUn recrutement sans concours pour l'accès au grade d'adjoint technique de l'intérieur et de l'outre-mer, au titre de l'année 2026 est organisé dans le ressort du SGAMI Sud-est - session 2026 - 1.\n\nPour candidater au titre du recrutement sans concours (RSC), les conditions de recrutement sont les suivantes :\n\n    Être de nationalité française ou ressortissant d'un des États membres de l'Union Européenne\n\n    Être âgé-e de 18 ans au moins\n\n    Être en règle avec la législation sur le service national\n    Les candidats doivent être aptes à remplir leur fonction.\n\n    Calendrier prévisionnel du recrutement :\n        - Inscriptions du 14 avril au 18 mai 2026 à minuit\n        - Examen des dossiers et résultats d'admissibilité: 8 juin 2026  ;\n        - Épreuve d'admission (entretien)  : entre 1er au 3 juillet 2026  ;\n        - Publication des résultats d'admission : communiquées ultérieurement ;\n        - Dates d'affectation : entre le 1er septembre et le 30 septembre 2026.\n\n    Le dossier d'inscription est téléchargeable sur le site suivant :\n\nhttps://www.rhone.gouv.fr/Actions-de-l-Etat/Economie-travail-et-emploi/Entreprises-Emploi/Concours-et-examens/Prefecture/Recrutement-d-adjoints-techniques-et-d-adjoints-techniques-principaux-de-deuxieme-classe-session-2026\n\nVos activités principales : \n- Seconder les personnels cuisiniers, sortir les denrées pour la préparation des menus, élaborer et\nconfectionner les repas, à résidence ou en déplacement.\n- Approvisionner régulièrement la chaîne de distribution, servir les plats ou les consommations au foyer.\n- Participer à la livraison des repas.\n- Dresser les tables, servir en salle à manger et en réception.\n- Entretenir des locaux cuisine et salle à manger, nettoyer la vaisselle et les matériels de cuisine.\n\nVotre environnement professionnel : \n\n    - Activités du service \n- Assurer la subsistance de l'unité en matière de restauration collective.\n- Gestion et suivi des stocks et des livraisons Mess/Foyer.\n- Gestion des rationnaires.\n- Suivi administratif des commandes et factures.\n- Composition des menus - Achat des denrées - Gestion des équipes Ouvriers Cuisiniers et Adjoints Techniques - Gestion de l'entretien des matériels - Organisation de prestations diverses - Contrôle de la stricte application des normes HACCP dans l'espace restauration.\n\n\nConnaissances techniques\nConnaître l'environnement professionnel\nniveau pratique - requis\nSavoir-faire :\nSavoir travailler en équipe\nniveau pratique - requis\nSavoir s'organiser\nniveau pratique - requis\nSavoir analyser\nniveau pratique - requis\n Savoir-être :\nsavoir s'adapter\nniveau pratique - requis\navoir le sens des relations humaines\nniveau pratique - requis\nsavoir communiquer\nniveau pratique - requis\nsavoir accueillir\nniveau pratique - requis\nniveau pratique\nrequis\n \nSpécificités du poste / Contraintes / Sujétions :\n\nRespect des normes d'hygiène et de sécurité.\n\nBonne présentation, disponibilité et polyvalence. \n\nEmployé à résidence - Possibilité déplacement (logé, nourri, transport assuré par unité) structure qui effectue de nombreux déplacements hors région.\n\nPossibilité de travailler le Week-End.\n\n\nHoraires hebdomadaires : 40h30 hebdomadaire\n\nCongés : 25 CA + 29 RTT",
+      "description": "AGENT DE RESTAURATION A LA CRS 46 SAINTE FOY LES LYON \n\n\nUn recrutement sans concours pour l'accès au grade d'adjoint technique de l'intérieur et de l'outre-mer, au titre de l'année 2026 est organisé dans le ressort du SGAMI Sud-est - session 2026 - 1.\n\nPour candidater au titre du recrutement sans concours (RSC), les conditions de recrutement sont les suivantes :\n\n    Être de nationalité française ou ressortissant d'un des États membres de l'Union Européenne\n\n    Être âgé-e de 18 ans au moins\n\n    Être en règle avec la législation sur le service national\n    Les candidats doivent être aptes à remplir leur fonction.\n\n    Calendrier prévisionnel du recrutement :\n        - Inscriptions du 14 avril au 25 mai 2026 à minuit\n        - Examen des dossiers et résultats d'admissibilité: 8 juin 2026  ;\n        - Épreuve d'admission (entretien)  : entre 1er au 3 juillet 2026  ;\n        - Publication des résultats d'admission : communiquées ultérieurement ;\n        - Dates d'affectation : entre le 1er septembre et le 30 septembre 2026.\n\n    Le dossier d'inscription est téléchargeable sur le site suivant :\n\nhttps://www.rhone.gouv.fr/Actions-de-l-Etat/Economie-travail-et-emploi/Entreprises-Emploi/Concours-et-examens/Prefecture/Recrutement-d-adjoints-techniques-et-d-adjoints-techniques-principaux-de-deuxieme-classe-session-2026\n\nVos activités principales : \n- Seconder les personnels cuisiniers, sortir les denrées pour la préparation des menus, élaborer et\nconfectionner les repas, à résidence ou en déplacement.\n- Approvisionner régulièrement la chaîne de distribution, servir les plats ou les consommations au foyer.\n- Participer à la livraison des repas.\n- Dresser les tables, servir en salle à manger et en réception.\n- Entretenir des locaux cuisine et salle à manger, nettoyer la vaisselle et les matériels de cuisine.\n\nVotre environnement professionnel : \n\n    - Activités du service \n- Assurer la subsistance de l'unité en matière de restauration collective.\n- Gestion et suivi des stocks et des livraisons Mess/Foyer.\n- Gestion des rationnaires.\n- Suivi administratif des commandes et factures.\n- Composition des menus - Achat des denrées - Gestion des équipes Ouvriers Cuisiniers et Adjoints Techniques - Gestion de l'entretien des matériels - Organisation de prestations diverses - Contrôle de la stricte application des normes HACCP dans l'espace restauration.\n\n\nConnaissances techniques\nConnaître l'environnement professionnel\nniveau pratique - requis\nSavoir-faire :\nSavoir travailler en équipe\nniveau pratique - requis\nSavoir s'organiser\nniveau pratique - requis\nSavoir analyser\nniveau pratique - requis\n Savoir-être :\nsavoir s'adapter\nniveau pratique - requis\navoir le sens des relations humaines\nniveau pratique - requis\nsavoir communiquer\nniveau pratique - requis\nsavoir accueillir\nniveau pratique - requis\nniveau pratique\nrequis\n \nSpécificités du poste / Contraintes / Sujétions :\n\nRespect des normes d'hygiène et de sécurité.\n\nBonne présentation, disponibilité et polyvalence. \n\nEmployé à résidence - Possibilité déplacement (logé, nourri, transport assuré par unité) structure qui effectue de nombreux déplacements hors région.\n\nPossibilité de travailler le Week-End.\n\n\nHoraires hebdomadaires : 40h30 hebdomadaire\n\nCongés : 25 CA + 29 RTT",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/206WNDJ",
       "date": "2026-04-14",
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 34
-    },
-    {
-      "source": "France Travail",
-      "id": "206WWLR",
-      "titre": "Agent de restauration en contrat PACTE (H/F)",
-      "entreprise": "",
-      "ville": "69 - STE FOY LES LYON",
-      "contrat": "CDI",
-      "salaire": "",
-      "description": "Pour être éligible au contrat PACTE vous devez :\n\n- Etre âgés de 16 à 28 ans au plus, sans emploi et sans diplôme, ni qualification professionnelle ou dont le niveau de qualification est inférieur au bac\nOU\n-  Demandeurs d'Emploi en situation de chômage de longue durée, âgés d'au moins 45 ans et bénéficiaires du Revenu de Solidarité Active (RSA), de l'Allocation de Solidarité Spécifique (ASS) ou de l'Allocation aux Adultes Handicapés (AAH) et pour les départements d'outre-mer et les collectivités de Saint Barthélémy, Saint Martin et Saint Pierre-et-Miquelon, du Revenu Minimum d'Insertion (RMI) ou de l'Allocation de Parent Isolé (API)\n\nL'objectif du contrat Pacte étant une titularisation dans la fonction publique, il ne peut être conclu qu'avec une personne :\n\n- DE NATIONALITE FRANCAISE\nOU\n- RESSORTISSANTE D'UN DES ETATS MEMBRES DE L'UNION EUROPPENNE OU DE L'ESPACE ECONOMIQUE EUROPEN, d'Andorre, de Monaco ou de la Suisse en cours de naturalisation ou d'acquisition de l'une des nationalités mentionnées dans la mesure où l'aboutissement de la procédure est proche.\n\nLa titularisation ne pourra intervenir qu'une fois la condition de nationalité satisfaite.\n\nAprès étude de votre candidature, si vous êtes admissible nous vous demanderons de nous envoyer : la fiche candidature PACTE + un CV + une lettre de motivation + la copie Carte d'identité recto/verso. TOUS DOSSIERS NON COMPLETS NE SERONT PAS PRIS EN COMPTE.\n\nVous trouverez la fiche candidature PACTE à télécharger ci-dessous :\nhttps://www.francetravail.fr/files/live/sites/ile-de-france/files/ile-de-france/nouveau%20site/fichiers%20candidat/Fiche_candidature_pacte.pdf\n\nPour travailler pour le ministère de l'intérieur, vous devez avoir la nationalité française ou être ressortissant Européen.\n\nLe Cercle mixte de la GENDARMERIE propose un poste d'agent de restauration\n\nVos activités principales :\n\n- entretien et hygiène des locaux du cercle mixte ;\n- accueil et service en salle, bar et hôtellerie ;\n- techniques de service en salle selon le type de restauration et selon le public accueilli ;\n- technique de préparations et de présentation des entrées froides ou des desserts ;\n- plonge restaurant ;\n- respect des procédures mises en place dans le cadre de la méthode HACCP ;\n- échanges avec les autres agents de restauration et d'hôtellerie afin d'optimiser les tâches confiées ;\n- en dehors de ses attributions prend ses consignes auprès du gérant de l'activité ;\n- peut-être employé à titre exceptionnel, sur d'autres postes selon la nécessité de service ;\n- procédures et autocontrôles mis en place dans le cadre de la méthode HACCP.\n\nSpécificités du poste / Contraintes / Sujétions :\nCycle hebdomadaire de 38h00, sur 5 jours, soit 7h36 par jour, avec une pause méridienne de 30 minutes comprise dans le temps de travail.\nPersonnel travaillant sur une période couvrant une plage horaire de 05h30 à 22h00 selon un planning établi.\nL'agent peut être amené à travailler le week-end et/ou jour férié, sous astreinte ou permanence.\nStation debout prolongée, manutention de charges et expositions fréquentes à la chaleur ou au froid.\nRespect des règles d'hygiène et port d'équipements appropriés.\n\n   Calendrier prévisionnel du recrutement :\n        - Inscriptions du 14 avril au 18 mai 2026 à minuit\n        - Examen des dossiers et résultats d'admissibilité: 9 juin 2026  ;\n        - Épreuve d'admission (entretien)  : entre le 1er et 3 juillet 2026  ;\n        - Publication des résultats d'admission : communiquées ultérieurement ;\n        - Dates d'affectation : entre le 1er septembre et le 30 septembre 2026.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/206WWLR",
-      "date": "2026-04-14",
-      "domaine": "RESTO",
-      "niveau": 2,
-      "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 34
+      "jours_anciennete": 35
     },
     {
       "source": "France Travail",
@@ -1266,7 +1266,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 38
+      "jours_anciennete": 39
     },
     {
       "source": "France Travail",
@@ -1282,7 +1282,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 39
+      "jours_anciennete": 40
     },
     {
       "source": "France Travail",
@@ -1298,7 +1298,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 40
+      "jours_anciennete": 41
     },
     {
       "source": "France Travail",
@@ -1314,7 +1314,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
-      "jours_anciennete": 43
+      "jours_anciennete": 44
     },
     {
       "source": "France Travail",
@@ -1330,7 +1330,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 46
+      "jours_anciennete": 47
     },
     {
       "source": "France Travail",
@@ -1346,7 +1346,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 48
+      "jours_anciennete": 49
     },
     {
       "source": "France Travail",
@@ -1362,7 +1362,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 52
+      "jours_anciennete": 53
     },
     {
       "source": "France Travail",
@@ -1378,7 +1378,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 52
+      "jours_anciennete": 53
     },
     {
       "source": "France Travail",
@@ -1394,7 +1394,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 54
+      "jours_anciennete": 55
     },
     {
       "source": "France Travail",
@@ -1410,7 +1410,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 55
+      "jours_anciennete": 56
     },
     {
       "source": "France Travail",
@@ -1426,7 +1426,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 55
+      "jours_anciennete": 56
     },
     {
       "source": "France Travail",
@@ -1442,7 +1442,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 58
+      "jours_anciennete": 59
     },
     {
       "source": "France Travail",
@@ -1458,7 +1458,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "BIM/Revit dans titre",
-      "jours_anciennete": 61
+      "jours_anciennete": 62
     },
     {
       "source": "France Travail",
@@ -1474,7 +1474,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 63
+      "jours_anciennete": 64
     },
     {
       "source": "France Travail",
@@ -1490,7 +1490,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 65
+      "jours_anciennete": 66
     },
     {
       "source": "France Travail",
@@ -1506,7 +1506,7 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 79
+      "jours_anciennete": 80
     },
     {
       "source": "France Travail",
@@ -1522,7 +1522,7 @@
       "domaine": "BIM",
       "niveau": 2,
       "raison": "BIM/Revit dans titre",
-      "jours_anciennete": 101
+      "jours_anciennete": 102
     },
     {
       "source": "France Travail",
@@ -1538,7 +1538,55 @@
       "domaine": "RESTO",
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 117
+      "jours_anciennete": 118
+    },
+    {
+      "source": "Indeed",
+      "id": "c198140b8bc3",
+      "titre": "Chef(fe) de rang (H/F/NB)",
+      "entreprise": "Accor",
+      "ville": "Lyon, ARA, FR",
+      "contrat": "fulltime",
+      "salaire": "",
+      "description": "Description de l'entreprise **Offrez une expérience unique, faites revenir nos clients !**\n\n**Situé en plein cœur de la Part\\-Dieu, au pied de la tour To Lyon**, le **Pullman Lyon** est une véritable icône de l’univers Premium en France. Avec **168 chambres élégantes et ultra\\-connectées**, **un espace fitness de pointe**, **1 100 m² d’espaces séminaires modulables et un superbe patio végétalisé**, notre hôtel est **le** nouveau rendez\\-vous des Lyonnais et des voyageurs en quête d’exception.\n\n\n",
+      "url": "https://fr.indeed.com/viewjob?jk=5374c649c71d17e9",
+      "date": "2026-05-19",
+      "domaine": "RESTO",
+      "niveau": 3,
+      "raison": "Profil transferable",
+      "jours_anciennete": 0
+    },
+    {
+      "source": "Indeed",
+      "id": "ee258ffcb43e",
+      "titre": "Chef(fe) de rang (H/F/NB)",
+      "entreprise": "PULLMAN",
+      "ville": "Lyon, ARA, FR",
+      "contrat": "fulltime",
+      "salaire": "",
+      "description": "**Description de l'entreprise** **Offrez une expérience unique, faites revenir nos clients !**\n\n**Situé en plein cœur de la Part\\-Dieu, au pied de la tour To Lyon**, le **Pullman Lyon** est une véritable icône de l’univers Premium en France. Avec **168 chambres élégantes et ultra\\-connectées**, **un espace fitness de pointe**, **1 100 m² d’espaces séminaires modulables et un superbe patio végétalisé**, notre hôtel est **le** nouveau rendez\\-vous des Lyonnais et des voyageurs en quête d’exception",
+      "url": "https://fr.indeed.com/viewjob?jk=c7d606fcc2fe4296",
+      "date": "2026-05-19",
+      "domaine": "RESTO",
+      "niveau": 3,
+      "raison": "Profil transferable",
+      "jours_anciennete": 0
+    },
+    {
+      "source": "France Travail",
+      "id": "208LCJD",
+      "titre": "Chef de projet poste HTB (H/F)",
+      "entreprise": "TISEA",
+      "ville": "69 - Lyon 1er Arrondissement",
+      "contrat": "CDI",
+      "salaire": "Annuel de 38000.0 Euros sur 12 mois",
+      "description": "Il/elle est responsable du pilotage global des projets HTB, depuis la phase d'études jusqu'à la réalisation des travaux, en garantissant le respect des délais, des coûts, de la qualité et des exigences de sécurité.\n\nMissions principales :\nPiloter les projets HTB dans leur globalité (planification, suivi, coordination)\nAnalyser les besoins clients et les cahiers des charges techniques\nSuperviser les études techniques et les travaux associés aux installations HTB\nAssurer la coordination entre les différents intervenants (bureau d'études, travaux, fournisseurs, sous-traitants, clients)\nSuivre l'avancement des projets et garantir le respect des objectifs de coûts, qualité et délais\nIdentifier les risques techniques et proposer des solutions adaptées\nParticiper aux réunions de suivi projet et assurer le reporting auprès des clients et de la direction\nVeiller au respect des normes électriques et des exigences HSE\nAssurer le suivi contractuel et technique des prestataires\n\nFormation :\nBac +5 en génie électrique, électrotechnique, énergie ou équivalent\nExpérience :\nMinimum 5 ans d'expérience en gestion de projets électriques ou HTB\nExpérience en environnement industriel, énergétique ou infrastructures électriques\nUne expérience dans les postes HTB ou réseaux haute tension est fortement appréciée\nCompétences techniques :\nBonne connaissance des installations HTB et des réseaux électriques\nGestion de projet technique et coordination d'équipes\nLecture et compréhension de documents techniques et schémas électriques\nConnaissance des normes électriques et des règles HSE\nMaîtrise des outils de suivi de projet et du Pack Office",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/208LCJD",
+      "date": "2026-05-19",
+      "domaine": "BIM",
+      "niveau": 3,
+      "raison": "Profil transferable",
+      "jours_anciennete": 0
     },
     {
       "source": "France Travail",
@@ -1554,7 +1602,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 0
+      "jours_anciennete": 1
     },
     {
       "source": "France Travail",
@@ -1570,7 +1618,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 3
+      "jours_anciennete": 4
     },
     {
       "source": "France Travail",
@@ -1586,7 +1634,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 3
+      "jours_anciennete": 4
     },
     {
       "source": "France Travail",
@@ -1602,7 +1650,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 4
+      "jours_anciennete": 5
     },
     {
       "source": "France Travail",
@@ -1618,7 +1666,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 4
+      "jours_anciennete": 5
     },
     {
       "source": "France Travail",
@@ -1634,7 +1682,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 5
+      "jours_anciennete": 6
     },
     {
       "source": "France Travail",
@@ -1647,22 +1695,6 @@
       "description": "Descriptif du poste:\n\nÀ ce titre, vos principales responsabilités seront les suivantes :\n\n* Participer activement à la prise d'un volume d'affaires significatif sur votre périmètre\n* Assurer la prospection commerciale, la détection et le ciblage des opérations en amont\n* Déployer opérationnellement sur votre territoire le plan d'actions commercial élaboré avec le Responsable d'Agence\n* Participer aux négociations commerciales et à la sécurisation des opérations\n* Accompagner et travailler en lien étroit avec les équipes opérationnelles de votre territoire\n* Développer et entretenir des relations commerciales durables avec les principaux acteurs du marché tels que les maîtres d'ouvrage, partenaires de prescription, bureaux d'études et entreprises partenaires\n* Contribuer activement à la valorisation de l'image et de la notoriété de l'entreprise sur votre zoneDans le cadre de vos missions, vous collaborez étroitement avec le Responsable d'Agence, les responsables opérationnels et les équipes techniques internes.\nLa démarche amont, le développement et l'animation d'un réseau relationnel solide, la gestion de votre portefeuille d'affaires, la satisfaction clients et la prise d'affaires seront au cœur de votre rôle.\n\n\nProfil recherché:\n\n\nVotre profil :Vous justifiez de minimum 7 ans d'expérience sur une fonction similaire idéalement acquise dans un environnement lié aux travaux, à la construction ou à l'ingénierie.\nVous êtes reconnu pour vos qualités relationnelles, votre sens du contact et votre capacité à travailler en équipe tout en menant des actions de conquête et de fidélisation. Au cours de vos expériences, vous avez su démontrer votre sens de l'écoute, votre esprit d'analyse et de synthèse ainsi que votre efficacité dans la conduite d'actions commerciales.\nUne bonne connaissance du tissu économique local et la capacité à y développer un réseau professionnel structuré sont attendues pour réussir dans ce poste.\n\n\nN'hésitez pas à postuler !",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2527779",
       "date": "2026-05-12",
-      "domaine": "BIM",
-      "niveau": 3,
-      "raison": "Profil transferable",
-      "jours_anciennete": 6
-    },
-    {
-      "source": "France Travail",
-      "id": "208CRKJ",
-      "titre": "Chef de projet poste HTB (H/F)",
-      "entreprise": "TISEA",
-      "ville": "69 - Lyon 1er Arrondissement",
-      "contrat": "CDI",
-      "salaire": "Annuel de 38000.0 Euros sur 12.0 mois",
-      "description": "Il/elle est responsable du pilotage global des projets HTB, depuis la phase d'études jusqu'à la réalisation des travaux, en garantissant le respect des délais, des coûts, de la qualité et des exigences de sécurité.\n\nMissions principales :\nPiloter les projets HTB dans leur globalité (planification, suivi, coordination)\nAnalyser les besoins clients et les cahiers des charges techniques\nSuperviser les études techniques et les travaux associés aux installations HTB\nAssurer la coordination entre les différents intervenants (bureau d'études, travaux, fournisseurs, sous-traitants, clients)\nSuivre l'avancement des projets et garantir le respect des objectifs de coûts, qualité et délais\nIdentifier les risques techniques et proposer des solutions adaptées\nParticiper aux réunions de suivi projet et assurer le reporting auprès des clients et de la direction\nVeiller au respect des normes électriques et des exigences HSE\nAssurer le suivi contractuel et technique des prestataires\n\nFormation :\nBac +5 en génie électrique, électrotechnique, énergie ou équivalent\nExpérience :\nMinimum 5 ans d'expérience en gestion de projets électriques ou HTB\nExpérience en environnement industriel, énergétique ou infrastructures électriques\nUne expérience dans les postes HTB ou réseaux haute tension est fortement appréciée\nCompétences techniques :\nBonne connaissance des installations HTB et des réseaux électriques\nGestion de projet technique et coordination d'équipes\nLecture et compréhension de documents techniques et schémas électriques\nConnaissance des normes électriques et des règles HSE\nMaîtrise des outils de suivi de projet et du Pack Office",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/208CRKJ",
-      "date": "2026-05-11",
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
@@ -1682,7 +1714,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 10
+      "jours_anciennete": 11
     },
     {
       "source": "France Travail",
@@ -1698,7 +1730,7 @@
       "domaine": "RESTO",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 11
+      "jours_anciennete": 12
     },
     {
       "source": "France Travail",
@@ -1714,7 +1746,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 11
+      "jours_anciennete": 12
     },
     {
       "source": "France Travail",
@@ -1730,7 +1762,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 13
+      "jours_anciennete": 14
     },
     {
       "source": "France Travail",
@@ -1746,7 +1778,7 @@
       "domaine": "RESTO",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 14
+      "jours_anciennete": 15
     },
     {
       "source": "France Travail",
@@ -1762,7 +1794,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 16
+      "jours_anciennete": 17
     },
     {
       "source": "France Travail",
@@ -1778,7 +1810,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 17
+      "jours_anciennete": 18
     },
     {
       "source": "France Travail",
@@ -1794,7 +1826,7 @@
       "domaine": "RESTO",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -1810,7 +1842,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -1826,7 +1858,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -1842,7 +1874,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -1858,7 +1890,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 18
+      "jours_anciennete": 19
     },
     {
       "source": "France Travail",
@@ -1874,23 +1906,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 20
-    },
-    {
-      "source": "France Travail",
-      "id": "1811748",
-      "titre": "MANAGER DE RESTAURANT (H/F)",
-      "entreprise": "3 Brasseurs",
-      "ville": "69 - Lyon 9e Arrondissement",
-      "contrat": "CDI",
-      "salaire": "Annuel de 28800.0 Euros à 30000.0 Euros",
-      "description": "RESPONSABILITÉS : \n\nLe plan d'attaque : \nEn véritable coach, le management opérationnel est au cœur de votre activité. \nVous êtes au plus proche du terrain pour former, entraîner et encadrer vos équipes sur le terrain.\nVous organisez et animez les services à table, tout en y participant activement.\nPour que le match se déroule sans accrocs, vous veillez au respect de l'hygiène et la sécurité au sein du restaurant. \nVous êtes le titulaire pour ouvrir et fermer le restaurant. \nIl ne faut pas avoir peur de mouiller le maillot pour gérer les relations commerciales. Un seul but, la satisfaction client !\nPendant les mi-temps, vous prenez en charge la gestion financière et administrative (du personnel, des stocks...) afin de garantir l'atteinte des objectifs.\n\nPROFIL RECHERCHÉ : \n\nLa recette du succès 3 Brasseurs : \nVous assurez vos arrières grâce à votre talent managérial applaudi pour son jeu fédérateur, pédagogue et bienveillant (de minimum 10 co-équipiers). \nVous marquerez des buts grâce à votre goût du challenge et votre capacité à travailler en équipe avec enthousiasme.\nLe match nécessite de préférence la connaissance d'un environnement à fort volume (minimum 150 couverts), mais sachez que la victoire dépendra avant tout de votre personnalité de manager et de votre motivation !\nVous vous sentez prêt à être ambassadeur(drice) de la marque « 3 Brasseurs » ? \nNe restez pas sur le banc de touche, envoyez-nous votre candidature !\nL'ensemble de nos métiers est accessible aux personnes en situation de handicap.\nhttps://www.3brasseurs.com/",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/1811748",
-      "date": "2026-04-23",
-      "domaine": "RESTO",
-      "niveau": 3,
-      "raison": "Profil transferable",
-      "jours_anciennete": 25
+      "jours_anciennete": 21
     },
     {
       "source": "France Travail",
@@ -1906,7 +1922,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 25
+      "jours_anciennete": 26
     },
     {
       "source": "France Travail",
@@ -1922,7 +1938,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 25
+      "jours_anciennete": 26
     },
     {
       "source": "France Travail",
@@ -1938,7 +1954,7 @@
       "domaine": "RESTO",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 26
+      "jours_anciennete": 27
     },
     {
       "source": "France Travail",
@@ -1954,7 +1970,7 @@
       "domaine": "RESTO",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 26
+      "jours_anciennete": 27
     },
     {
       "source": "France Travail",
@@ -1970,7 +1986,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 27
+      "jours_anciennete": 28
     },
     {
       "source": "France Travail",
@@ -1986,7 +2002,7 @@
       "domaine": "RESTO",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 40
+      "jours_anciennete": 41
     },
     {
       "source": "France Travail",
@@ -2002,7 +2018,7 @@
       "domaine": "RESTO",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 48
+      "jours_anciennete": 49
     },
     {
       "source": "France Travail",
@@ -2018,7 +2034,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 54
+      "jours_anciennete": 55
     },
     {
       "source": "France Travail",
@@ -2034,7 +2050,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 82
+      "jours_anciennete": 83
     },
     {
       "source": "France Travail",
@@ -2050,7 +2066,7 @@
       "domaine": "BIM",
       "niveau": 3,
       "raison": "Profil transferable",
-      "jours_anciennete": 84
+      "jours_anciennete": 85
     }
   ]
 }
