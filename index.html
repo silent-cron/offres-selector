@@ -301,17 +301,7 @@
   <button class="sel-btn" onclick="deselectAll()">Tout désélectionner</button>
   <span id="count-badge">0 sélectionnée(s)</span>
 </div>
-<div class="toolbar" style="background:#fafafa;border-top:none;padding-top:8px;padding-bottom:10px;gap:8px;">
-  <span style="font-size:0.78rem;color:#888;font-weight:600;margin-right:4px;">📍 Distance :</span>
-  <button class="zone-btn active" onclick="setZone('all',this)">Toute France</button>
-  <button class="zone-btn" onclick="setZone('aura',this)">🗺️ AuRA</button>
-  <button class="zone-btn" onclick="setZone('grandlyon',this)">🌍 Grand Lyon</button>
-  <button class="zone-btn" onclick="setZone('lyon',this)">🏙️ Lyon centre</button>
-  <div class="sep"></div>
-  <span style="font-size:0.78rem;color:#888;font-weight:600;margin-right:4px;">Tri :</span>
-  <button class="zone-btn active" onclick="setSort('prio',this)">Priorité</button>
-  <button class="zone-btn" onclick="setSort('dist',this)">Distance ↑</button>
-</div>
+
 <div id="city-search-row">
   <span style="font-size:0.78rem;color:#888;font-weight:600;margin-right:4px;">🔍 Ville :</span>
   <input type="text" id="city-search" placeholder="Saisie libre : Lyon 7, Bron, Grenoble..." oninput="setCitySearch(this.value)">
@@ -366,6 +356,10 @@
       <option value="Clermont-Ferrand">Clermont-Ferrand</option>
     </optgroup>
   </select>
+  <div class="sep" style="height:20px;"></div>
+  <span style="font-size:0.78rem;color:#888;font-weight:600;margin-right:2px;">Tri :</span>
+  <button class="zone-btn active" onclick="setSort('prio',this)">⭐ Priorité</button>
+  <button class="zone-btn" onclick="setSort('dist',this)">📍 Distance ↑</button>
 </div>
 <div class="toolbar" style="background:#fafafa;border-top:1px solid #eee;padding-top:8px;padding-bottom:10px;gap:8px;">
   <span style="font-size:0.78rem;color:#888;font-weight:600;margin-right:4px;">📄 Contrat :</span>
