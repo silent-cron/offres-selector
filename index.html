@@ -422,6 +422,7 @@ fetch(RAW_JSON + "?t=" + Date.now())
     allOffers.forEach(o => { o._zone = getZone(o.ville || o.location || o.city || ""); });
     sortOffers();
     document.getElementById("loading").style.display = "none";
+    document.getElementById("error-msg").style.display = "none";
     document.getElementById("grid").style.display = "";
     const now = new Date().toLocaleString("fr-FR");
     document.getElementById("header-info").textContent =
