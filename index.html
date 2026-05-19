@@ -663,7 +663,7 @@ async function setRefAddress(val) {
   // Géocoder toutes les villes des offres
   const villes = [...new Set(allOffers.map(o => o.ville || o.location || o.city || "").filter(Boolean))];
   await Promise.all(villes.map(v => geocodeQ(v)));
-  // Calculer les distances
+  // Calculer les distances depuis l'adresse de référence uniquement
   allOffers.forEach(o => {
     const v = o.ville || o.location || o.city || "";
     const vc = geocodeCache[v];
