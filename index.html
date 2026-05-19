@@ -309,7 +309,7 @@
 <div id="empty-msg">Aucune offre dans cette catégorie.</div>
 
 <script>
-const RAW_JSON = "https://raw.githubusercontent.com/silent-cron/offres-selector/main/offres_vertes.json";
+const RAW_JSON = "./offres_vertes.json";
 
 let allOffers = [];
 let currentFilter     = "all";
@@ -384,6 +384,34 @@ function normalizeContrat(c) {
   if (v.includes("alternance") || v.includes("apprenti") || v.includes("stage") || v.includes("professionnalisation")) return "Stage";
   return v ? c.toUpperCase() : "";
 }
+
+// ── Tri ──────────────────────────────────────────────────────────────────────
+function sortOffers() {
+  if (currentSort === "prio") {
+    allOffers.sort((a, b) => {
+      const pa = parseInt(a.niveau || 9), pb = parseInt(b.niveau || 9);
+      if (pa !== pb) return pa - pb;
+      return (a.jours_anciennete ?? 99) - (b.jours_anciennete ?? 99);
+    });
+  } else {
+    // distance : Lyon centre d'abord
+    allOffers.sort((a, b) => (a._zone || 9) - (b._zone || 9));
+  }
+}
+
+function _resetGroup(fnName, btn) {
+  document.querySelectorAll(`button[onclick^="${fnName}"]`).forEach(b => b.classList.remove("active"));
+  if (btn) btn.classList.add("active");
+}
+
+function setFilter(v, btn)      { currentFilter     = v; _resetGroup("setFilter",     btn); renderCards(); }
+function setZone(v, btn)        { currentZone       = v; _resetGroup("setZone",       btn); renderCards(); }
+function setSort(v, btn)        { currentSort       = v; _resetGroup("setSort",       btn); sortOffers(); renderCards(); }
+function setContrat(v, btn)     { currentContrat    = v; _resetGroup("setContrat",    btn); renderCards(); }
+function setTeletravail(v, btn) { currentTeletravail= v; _resetGroup("setTeletravail",btn); renderCards(); }
+function setFraicheur(v, btn)   { currentFraicheur  = v; _resetGroup("setFraicheur",  btn); renderCards(); }
+function setExperience(v, btn)  { currentExperience = v; _resetGroup("setExperience", btn); renderCards(); }
+function setSource(v, btn)      { currentSource     = v; _resetGroup("setSource",     btn); renderCards(); }
 
 // ── Chargement ──────────────────────────────────────────────────────────────
 fetch(RAW_JSON + "?t=" + Date.now())
