@@ -728,13 +728,12 @@ let genereesData  = [];
 let genereesByUrl = {};
 
 function getEmlUrl(emlFile) {
-  const c = getCfg();
-  return `https://raw.githubusercontent.com/${c.owner}/${c.repo}/${c.branch}/CV%20et%20LM%20generes/${encodeURIComponent(emlFile)}`;
+  // offres-selector est public → raw.githubusercontent.com accessible sans auth
+  return `https://raw.githubusercontent.com/silent-cron/offres-selector/main/drafts/${encodeURIComponent(emlFile)}`;
 }
 
 function loadGenerees() {
-  const c = getCfg();
-  const url = `https://raw.githubusercontent.com/${c.owner}/${c.repo}/${c.branch}/candidatures_generees.json?t=${Date.now()}`;
+  const url = `https://raw.githubusercontent.com/silent-cron/offres-selector/main/candidatures_generees.json?t=${Date.now()}`;
   fetch(url)
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
