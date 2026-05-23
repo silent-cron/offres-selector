@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/205LPWD",
+    "entreprise": "Restaurant Le Gonzague Burger Lyon",
+    "titre": "Serveur / Serveuse (H/F)",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_Restaurant_Le_Gonzague_Burger_Lyon_Serveur_Serveuse_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "23/05/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/207SWJJ",
+    "entreprise": "Anonyme",
+    "titre": "Barman / Barmaid (H/F)",
+    "domaine": "RESTO",
+    "score": 4,
+    "email_rh": "",
+    "eml_file": "Email_Anonyme_Barman_Barmaid_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "23/05/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/207JXWN",
+    "entreprise": "L'AUTHENTIK",
+    "titre": "Chef de rang (H/F)",
+    "domaine": "RESTO",
+    "score": 1,
+    "email_rh": "",
+    "eml_file": "Email_LAUTHENTIK_Chef_de_rang_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "23/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=333a4df453c1fa23",
+    "entreprise": "Edvance",
+    "titre": "Projeteur Génie Civil - Méthode BIM F/H",
+    "domaine": "BIM",
+    "score": 1,
+    "email_rh": "",
+    "eml_file": "Email_Edvance_Projeteur_Génie_Civil_Méthode_BIM_FH_05.2026.eml",
+    "statut": "GENERE",
+    "date": "23/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=95ed9f74f028eaef",
+    "entreprise": "Campanile PRIME | Lyon Meyzieu Eurexpo Arena Stadium",
+    "titre": "Barman H/F",
+    "domaine": "RESTO",
+    "score": 6,
+    "email_rh": "",
+    "eml_file": "Email_Campanile_PRIME_Lyon_Meyzieu_Eurexpo_Arena_Stadium_Barman_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "23/05/2026"
+  },
+  {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/207SSDS",
     "entreprise": "LE VIEUX LYON",
     "titre": "Chef de rang responsable de salle (H/F)",
