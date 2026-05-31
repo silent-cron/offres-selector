@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=0024fb9338223569",
+    "entreprise": "GOLF LA SORELLE (01)",
+    "titre": "Serveur/Runner H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "Recrut.phv@gmail.com",
+    "eml_file": "Email_GOLF_LA_SORELLE_01_ServeurRunner_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=f91f9c170b0e4d3b",
+    "entreprise": "Informations non disponibles",
+    "titre": "Informations non disponibles",
+    "domaine": "BIM",
+    "score": 4,
+    "email_rh": "",
+    "eml_file": "Email_Informations_non_disponibles_Informations_non_disponibles_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=18caf97e7e226730",
+    "entreprise": "PEPITe",
+    "titre": "Technicien de Maintenance CVC",
+    "domaine": "BIM",
+    "score": 1,
+    "email_rh": "",
+    "eml_file": "Email_PEPITe_Technicien_de_Maintenance_CVC_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=7669b9c7e9eedd27",
+    "entreprise": "Equans",
+    "titre": "Technicien Qualification H/F - Axima Nucléaire",
+    "domaine": "BIM",
+    "score": 1,
+    "email_rh": "",
+    "eml_file": "Email_Equans_Technicien_Qualification_HF_Axima_Nucléaire_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=02259344eba6b687",
+    "entreprise": "LOCABRI",
+    "titre": "Dessinateur projeteur H/F",
+    "domaine": "BIM",
+    "score": 1,
+    "email_rh": "",
+    "eml_file": "Email_LOCABRI_Dessinateur_projeteur_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=5a5766a94e750a75",
     "entreprise": "CITEC INGENIEURS CONSEILS",
     "titre": "Technicienne BIM Revit — Modélisation 3D Intelligente, Familles Paramétriques, Coordination Multi-corps | 4+ ans XP",
