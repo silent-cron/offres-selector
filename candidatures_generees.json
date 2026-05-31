@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=b419aee7812e2831",
+    "entreprise": "restaurant le zito lyon",
+    "titre": "Serveur/Serveuse/Runneuse H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_restaurant_le_zito_lyon_ServeurServeuseRunneuse_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=2ba048ef0b175541",
+    "entreprise": "Informations non disponibles",
+    "titre": "Informations non disponibles",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_Informations_non_disponibles_Informations_non_disponibles_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=89a4581504390ec5",
+    "entreprise": "TM Restauration / Chez Paul'O",
+    "titre": "Barman/Serveur H/F",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_TM_Restauration_Chez_PaulO_BarmanServeur_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=4b1aee80b0bbe834",
+    "entreprise": "HIPPOPOTAMUS",
+    "titre": "[ALTERNANCE] Serveur H/F",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_HIPPOPOTAMUS_ALTERNANCE_Serveur_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=2d6ce6e8cb2f4078",
+    "entreprise": "LE RIALTO",
+    "titre": "Serveur H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_LE_RIALTO_Serveur_HF_05.2026.eml",
+    "statut": "GENERE",
+    "date": "31/05/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=0024fb9338223569",
     "entreprise": "GOLF LA SORELLE (01)",
     "titre": "Serveur/Runner H/F",
