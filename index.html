@@ -728,31 +728,14 @@ let genereesData  = [];
 let genereesByUrl = {};
 
 function genererEml(g) {
-  // Genere le .eml a la volee depuis les donnees JSON - plus besoin de stocker les fichiers
-  const from    = "guilaine.atangana@outlook.fr";
+  // Ouvre Outlook directement via mailto: — aucun fichier a sauvegarder
   const to      = g.email_rh || "";
   const subject = g.objet    || ("Candidature - " + (g.titre || "") + " - Guilaine ATANGANA");
   const body    = g.corps    || "";
-  const eml = [
-    "MIME-Version: 1.0",
-    "X-Unsent: 1",
-    "X-MS-Draft: True",
-    "Content-Type: text/plain; charset=utf-8",
-    "Content-Transfer-Encoding: 8bit",
-    "From: " + from,
-    "To: " + to,
-    "Subject: " + subject,
-    "",
-    body
-  ].join("\r\n");
-  const blob = new Blob([eml], { type: "message/rfc822" });
-  const url  = URL.createObjectURL(blob);
-  const a    = document.createElement("a");
-  a.href     = url;
-  a.download = (g.eml_file || ("Email_" + (g.entreprise||"").replace(/\s+/g,"_") + ".eml"));
-  document.body.appendChild(a);
-  a.click();
-  setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 1000);
+  const mailto  = "mailto:" + encodeURIComponent(to)
+    + "?subject=" + encodeURIComponent(subject)
+    + "&body="    + encodeURIComponent(body);
+  window.location.href = mailto;
 }
 
 function loadGenerees() {
