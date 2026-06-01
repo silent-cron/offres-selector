@@ -1,5 +1,49 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=6f5c54ecbc1b2b24",
+    "entreprise": "lyon8@la-fabryk.fr",
+    "titre": "Serveur H/F",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_lyon8la_fabrykfr_Serveur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "01/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=263aa1f49086ac7f",
+    "entreprise": "lyon8@la-fabryk.fr",
+    "titre": "Barman/Serveur H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_lyon8la_fabrykfr_BarmanServeur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "01/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=e20d5606d90b8b03",
+    "entreprise": "Concept Fluides",
+    "titre": "Chargé d'affaires CVC",
+    "domaine": "BIM",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Concept_Fluides_Chargé_daffaires_CVC_06.2026.eml",
+    "statut": "GENERE",
+    "date": "01/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3158185",
+    "entreprise": "Crous de Lyon",
+    "titre": "Responsable Cafétéria F/H",
+    "domaine": "BIM",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Crous_de_Lyon_Responsable_Cafétéria_FH_06.2026.eml",
+    "statut": "GENERE",
+    "date": "01/06/2026"
+  },
+  {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/208XZSW",
     "entreprise": "Crescendo Lyon Brotteaux",
     "titre": "Technicien Bureau d'Etudes (H/F)",
