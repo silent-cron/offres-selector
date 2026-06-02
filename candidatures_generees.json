@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/208ZDVQ",
+    "entreprise": "La Maison PIGNOL",
+    "titre": "Vendeur -Serveur (H/F)",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_La_Maison_PIGNOL_Vendeur_Serveur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209CTZY",
+    "entreprise": "SHIYO LYON",
+    "titre": "Barman (H/F)",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_SHIYO_LYON_Barman_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209CTBN",
+    "entreprise": "SHIYO LYON",
+    "titre": "Chef de Rang (H/F)",
+    "domaine": "BIM",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_SHIYO_LYON_Chef_de_Rang_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=85f554ea41da0e2c",
+    "entreprise": "Justin",
+    "titre": "Barman/Barmaid",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Justin_BarmanBarmaid_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/208YKQM",
+    "entreprise": "Institut Lyfe / Groupe Yannick Alléno",
+    "titre": "Chef-fe de Rang F/H",
+    "domaine": "BIM",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Institut_Lyfe_Groupe_Yannick_Alléno_Chef_fe_de_Rang_FH_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=f836957c40f747c1",
     "entreprise": "Information non disponible",
     "titre": "Information non disponible",
