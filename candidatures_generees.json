@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=f836957c40f747c1",
+    "entreprise": "Information non disponible",
+    "titre": "Information non disponible",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "lecerfvolantlyon@gmail.com",
+    "eml_file": "Email_Information_non_disponible_Information_non_disponible_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=5dacbf3f1b181a0f",
+    "entreprise": "Beauvallon Collection",
+    "titre": "Chef de rang H/F",
+    "domaine": "BIM",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Beauvallon_Collection_Chef_de_rang_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=9ec923c23dd775fa",
+    "entreprise": "TATAHOLDING",
+    "titre": "Serveur en salle H/F",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "cuisineflandin@lebistrot-lyon.com",
+    "eml_file": "Email_TATAHOLDING_Serveur_en_salle_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=4fe3e772620a78eb",
+    "entreprise": "SAS FRAU 2",
+    "titre": "Serveur H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_SAS_FRAU_2_Serveur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=7a1da73969547ffc",
+    "entreprise": "Impossible à déterminer",
+    "titre": "Impossible à déterminer",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_Impossible_à_déterminer_Impossible_à_déterminer_06.2026.eml",
+    "statut": "GENERE",
+    "date": "02/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=66248410593d793f",
     "entreprise": "La Mère Cottivet",
     "titre": "Responsable restaurant",
