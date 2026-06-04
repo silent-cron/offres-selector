@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209GJRZ",
+    "entreprise": "LE BOEUF D'ARGENT",
+    "titre": "Serveur / Serveuse de restaurant",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_LE_BOEUF_DARGENT_Serveur_Serveuse_de_restaurant_06.2026.eml",
+    "statut": "GENERE",
+    "date": "04/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3450286",
+    "entreprise": "Recruteur",
+    "titre": "Chargé d'affaires CVC (H/F)",
+    "domaine": "BIM",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_Recruteur_Chargé_daffaires_CVC_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "04/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3433280",
+    "entreprise": "SPIE Groupe",
+    "titre": "Technicien de maintenance CVC Référent H/F",
+    "domaine": "BIM",
+    "score": 4,
+    "email_rh": "",
+    "eml_file": "Email_SPIE_Groupe_Technicien_de_maintenance_CVC_Référent_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "04/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=7f0a421b41990d62",
+    "entreprise": "nan",
+    "titre": "Hôte / Hôtesse Événementiel(le) pour renforcement équipe - Freelance (H/F)",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "evenement@mrpsl.fr",
+    "eml_file": "Email_nan_Hôte_Hôtesse_Événementielle_pour_renforcement_équipe_Freelance_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "04/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=505198405b571d86",
+    "entreprise": "L’autre monde",
+    "titre": "Serveur/Serveuse en salle et au bar H/F",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Lautre_monde_ServeurServeuse_en_salle_et_au_bar_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "04/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=c805ed09938d2077",
     "entreprise": "Copper Roots",
     "titre": "Chef de rang/Barman H/F",
