@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209HCYM",
+    "entreprise": "La Gare de Lyon PERRACHE",
+    "titre": "Employé polyvalent de restauration F/H",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_La_Gare_de_Lyon_PERRACHE_Employé_polyvalent_de_restauration_FH_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3410833",
+    "entreprise": "MY CONNECTT",
+    "titre": "Serveur en restauration H/F",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_MY_CONNECTT_Serveur_en_restauration_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209GLTT",
+    "entreprise": "Non spécifiée dans l'offre",
+    "titre": "Serveur(se) H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_Non_spécifiée_dans_loffre_Serveurse_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209FXMT",
+    "entreprise": "Adecco",
+    "titre": "Serveur Restaurant (h/f)",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_Adecco_Serveur_Restaurant_hf_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3468986",
+    "entreprise": "Appart'City",
+    "titre": "Employé polyvalent (F/H)",
+    "domaine": "BIM",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_AppartCity_Employé_polyvalent_FH_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/209GJRZ",
     "entreprise": "LE BOEUF D'ARGENT",
     "titre": "Serveur / Serveuse de restaurant",
