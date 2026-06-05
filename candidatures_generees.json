@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=ce1da1d8518dc1b7",
+    "entreprise": "YAOZ",
+    "titre": "Serveur polyvalent Saisonnier",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_YAOZ_Serveur_polyvalent_Saisonnier_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=8f0df86085c493dd",
+    "entreprise": "IDBS",
+    "titre": "Dessinateur Projeteur H/F",
+    "domaine": "BIM",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_IDBS_Dessinateur_Projeteur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209JFWJ",
+    "entreprise": "MARRONNIERS 5",
+    "titre": "Serveur employé polyvalent H/F",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_MARRONNIERS_5_Serveur_employé_polyvalent_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209JCLQ",
+    "entreprise": "BISTROT COMPA",
+    "titre": "Serveur / Serveuse de restaurant",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_BISTROT_COMPA_Serveur_Serveuse_de_restaurant_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=83b3fd7e141d6d4e",
+    "entreprise": "YAOZ",
+    "titre": "Serveur polyvalent H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_YAOZ_Serveur_polyvalent_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "05/06/2026"
+  },
+  {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/209HCYM",
     "entreprise": "La Gare de Lyon PERRACHE",
     "titre": "Employé polyvalent de restauration F/H",
