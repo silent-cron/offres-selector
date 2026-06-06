@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=ba69a0a04f90a25a",
+    "entreprise": "DAYOSHI GROUP",
+    "titre": "Chef de rang H/F",
+    "domaine": "RESTO",
+    "score": 6,
+    "email_rh": "",
+    "eml_file": "Email_DAYOSHI_GROUP_Chef_de_rang_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "06/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=139bbd94e6a30bc9",
+    "entreprise": "MVLM Groupe",
+    "titre": "Serveur en restauration H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_MVLM_Groupe_Serveur_en_restauration_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "06/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=3cb7c1f1b7344de7",
+    "entreprise": "Veolia",
+    "titre": "Technicien Multitechnique CVC Froid Itinérant H/F",
+    "domaine": "BIM",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Veolia_Technicien_Multitechnique_CVC_Froid_Itinérant_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "06/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=93279881c3ebcd03",
+    "entreprise": "Veolia",
+    "titre": "Technicien Multitechnique CVC Chaud Itinérant H/F",
+    "domaine": "BIM",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Veolia_Technicien_Multitechnique_CVC_Chaud_Itinérant_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "06/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=ab772cd5ad3f57d2",
+    "entreprise": "Veolia",
+    "titre": "CDD 12 mois - Technicien CVC Polyvalent Itinérant H/F",
+    "domaine": "BIM",
+    "score": 4,
+    "email_rh": "",
+    "eml_file": "Email_Veolia_CDD_12_mois_Technicien_CVC_Polyvalent_Itinérant_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "06/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=ce1da1d8518dc1b7",
     "entreprise": "YAOZ",
     "titre": "Serveur polyvalent Saisonnier",
