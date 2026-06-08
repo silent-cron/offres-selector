@@ -1,5 +1,38 @@
 [
   {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209HQNH",
+    "entreprise": "Non identifiée",
+    "titre": "Alternance - Equipier polyvalent (CAP) - H/F",
+    "domaine": "BIM",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Non_identifiée_Alternance_Equipier_polyvalent_CAP_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "08/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=13c2d034e55460c2",
+    "entreprise": "SARL nakata part dieu",
+    "titre": "Runner/Serveur H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_SARL_nakata_part_dieu_RunnerServeur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "08/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=0704404894566b8c",
+    "entreprise": "Hotel Tribe Lyon",
+    "titre": "TRIBE LYON CROIX ROUSSE - CHEF CUISINE",
+    "domaine": "RESTO",
+    "score": 3,
+    "email_rh": "",
+    "eml_file": "Email_Hotel_Tribe_Lyon_TRIBE_LYON_CROIX_ROUSSE_CHEF_CUISINE_06.2026.eml",
+    "statut": "GENERE",
+    "date": "08/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=6974572f914c8b0f",
     "entreprise": "Bistrot Thélème",
     "titre": "Serveur / Runner (H/F) – CDD Extra 35h",
