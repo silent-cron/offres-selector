@@ -1,5 +1,82 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=d4ad8a9f228ddbb4",
+    "entreprise": "SARL nakata part dieu",
+    "titre": "Runner/Serveur H/F",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_SARL_nakata_part_dieu_RunnerServeur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "09/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=47c0f1ebd7126dc8",
+    "entreprise": "LE BISTROT",
+    "titre": "Serveur restaurant brasserie H/F",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_LE_BISTROT_Serveur_restaurant_brasserie_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "09/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=793038417bb0da88",
+    "entreprise": "Hôtel de l' Abbaye et Restaurant l'artichaut",
+    "titre": "Chef de rang Confirmé H/F",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Hôtel_de_l_Abbaye_et_Restaurant_lartichaut_Chef_de_rang_Confirmé_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "09/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=004ed4efa29fcfca",
+    "entreprise": "Dalkia",
+    "titre": "Technicien de maintenance CVC / Multitechnique H/F",
+    "domaine": "BIM",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Dalkia_Technicien_de_maintenance_CVC_Multitechnique_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "09/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=dc505584345eb015",
+    "entreprise": "BAR LA MAISON BLEUE",
+    "titre": "Serveur Barista H/F",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "lecerfvolantlyon@gmail.com",
+    "eml_file": "Email_BAR_LA_MAISON_BLEUE_Serveur_Barista_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "09/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3532564",
+    "entreprise": "France Travail",
+    "titre": "Directeur de site d'hébergement F/H",
+    "domaine": "BIM",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_France_Travail_Directeur_de_site_dhébergement_FH_06.2026.eml",
+    "statut": "GENERE",
+    "date": "09/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3555884",
+    "entreprise": "Hôpital de Fourvière",
+    "titre": "Chef de production en cuisine H/F",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Hôpital_de_Fourvière_Chef_de_production_en_cuisine_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "09/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=81e4ea82233ad1c1",
     "entreprise": "Information non disponible",
     "titre": "Information non disponible",
