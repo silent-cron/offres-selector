@@ -1,45 +1,34 @@
 [
   {
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3656635",
-    "entreprise": "Recruteur",
-    "titre": "Employé de restauration H/F/X",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209SXPH",
+    "entreprise": "KURRY UP",
+    "titre": "Équipier polyvalent de restauration H/F",
     "domaine": "RESTO",
     "score": 5,
     "email_rh": "",
-    "eml_file": "Email_Recruteur_Employé_de_restauration_HFX_06.2026.eml",
+    "eml_file": "Email_KURRY_UP_Équipier_polyvalent_de_restauration_HF_06.2026.eml",
     "statut": "GENERE",
     "date": "15/06/2026"
   },
   {
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209PCKC",
-    "entreprise": "Recruteur",
-    "titre": "Technicien(ne) Bureau d'Études Bâtiment H/F (H/F)",
-    "domaine": "BIM",
-    "score": 5,
-    "email_rh": "",
-    "eml_file": "Email_Recruteur_Technicienne_Bureau_dÉtudes_Bâtiment_HF_HF_06.2026.eml",
-    "statut": "GENERE",
-    "date": "15/06/2026"
-  },
-  {
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3649141",
-    "entreprise": "Recruteur",
-    "titre": "Technicien BE H/F",
-    "domaine": "BIM",
-    "score": 5,
-    "email_rh": "",
-    "eml_file": "Email_Recruteur_Technicien_BE_HF_06.2026.eml",
-    "statut": "GENERE",
-    "date": "15/06/2026"
-  },
-  {
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209QTDF",
-    "entreprise": "MPT DES RANCY",
-    "titre": "Chargé-e d'accueil et Responsable de bar associatif (H/F)",
+    "url": "https://fr.indeed.com/viewjob?jk=52fe3f86d85ea5d7",
+    "entreprise": "SARL nakata part dieu",
+    "titre": "Serveur en salle H/F",
     "domaine": "RESTO",
     "score": 5,
     "email_rh": "",
-    "eml_file": "Email_MPT_DES_RANCY_Chargé_e_daccueil_et_Responsable_de_bar_associatif_HF_06.2026.eml",
+    "eml_file": "Email_SARL_nakata_part_dieu_Serveur_en_salle_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "15/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=e41ad5b346345d96",
+    "entreprise": "Sambahia",
+    "titre": "Alternant(e) bar+ Salle",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Sambahia_Alternante_bar_Salle_06.2026.eml",
     "statut": "GENERE",
     "date": "15/06/2026"
   },
@@ -51,6 +40,17 @@
     "score": 5,
     "email_rh": "",
     "eml_file": "Email_Recruteur_Hippopotamus_Serveur_Serveuse_en_restauration_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "15/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/209SSNX",
+    "entreprise": "Hanuri Korean Grill",
+    "titre": "Serveur/Serveuse à temps partiel (H/F)",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Hanuri_Korean_Grill_ServeurServeuse_à_temps_partiel_HF_06.2026.eml",
     "statut": "GENERE",
     "date": "15/06/2026"
   },
