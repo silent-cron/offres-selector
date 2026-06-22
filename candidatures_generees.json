@@ -1,16 +1,5 @@
 [
   {
-    "url": "https://fr.indeed.com/viewjob?jk=724ab2eea715f291",
-    "entreprise": "BISTRO GUSTO",
-    "titre": "Barman H/F",
-    "domaine": "RESTO",
-    "score": 5,
-    "email_rh": "",
-    "eml_file": "Email_BISTRO_GUSTO_Barman_HF_06.2026.eml",
-    "statut": "GENERE",
-    "date": "21/06/2026"
-  },
-  {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/4051656",
     "entreprise": "Recruteur",
     "titre": "Projeteur Electricité REVIT / Autocad (H/F)",
@@ -19,7 +8,7 @@
     "email_rh": "",
     "eml_file": "Email_Recruteur_Projeteur_Electricité_REVIT_Autocad_HF_06.2026.eml",
     "statut": "GENERE",
-    "date": "21/06/2026"
+    "date": "22/06/2026"
   },
   {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/4051686",
@@ -30,7 +19,7 @@
     "email_rh": "",
     "eml_file": "Email_Recruteur_Ingénieur_BIM_traitement_des_eaux_HF_06.2026.eml",
     "statut": "GENERE",
-    "date": "21/06/2026"
+    "date": "22/06/2026"
   },
   {
     "url": "https://fr.indeed.com/viewjob?jk=6b2230e2f0e581d6",
@@ -41,7 +30,18 @@
     "email_rh": "",
     "eml_file": "Email_Hopper_Le_grand_café_du_commerce_Serveur_polyvalent_Soirée_HF_06.2026.eml",
     "statut": "GENERE",
-    "date": "21/06/2026"
+    "date": "22/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4087899",
+    "entreprise": "Oceania Lyon",
+    "titre": "Serveur H/F - Oceania Lyon",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Oceania_Lyon_Serveur_HF_Oceania_Lyon_06.2026.eml",
+    "statut": "GENERE",
+    "date": "22/06/2026"
   },
   {
     "url": "https://fr.indeed.com/viewjob?jk=73957b232580542c",
@@ -52,7 +52,7 @@
     "email_rh": "",
     "eml_file": "Email_YAOZ_Serveur_polyvalent_HF_06.2026.eml",
     "statut": "GENERE",
-    "date": "21/06/2026"
+    "date": "22/06/2026"
   },
   {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/209QHDW",
