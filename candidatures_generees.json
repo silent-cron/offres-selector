@@ -1,5 +1,62 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210CNJT",
+    "entreprise": "Le bar à champagne",
+    "titre": "Barmaid de bar à champagne (H/F)",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Le bar à champagne_Barmaid de bar à champagne (H_F)_06.2026.eml",
+    "statut": "GENERE",
+    "date": "23/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210DQXJ",
+    "entreprise": "Brasserie Roseaux",
+    "titre": "Chef de Rang / Cheffe de Rang (H/F)",
+    "domaine": "BIM",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Brasserie Roseaux_Chef de Rang _ Cheffe de Rang (H_F)_06.2026.eml",
+    "statut": "GENERE",
+    "date": "23/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=91c638b670f81306",
+    "entreprise": "LE RIVE GAUCHE Lyon 6ème",
+    "titre": "Barman Runner polyvalent - CDI plein temps H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_LE RIVE GAUCHE Lyon 6ème_Barman Runner polyvalent - CDI plein temps H_F_06.2026.eml",
+    "statut": "GENERE",
+    "date": "23/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=83b0b40dd80ea9d8",
+    "entreprise": "Anonyme",
+    "titre": "Non spécifié",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Anonyme_Non spécifié_06.2026.eml",
+    "statut": "GENERE",
+    "date": "23/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=fe1640bff62aeb87",
+    "entreprise": "Société SMO",
+    "titre": "Chef de rang H/F - en continue journée- 2300e/mois 2J de repos",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Société SMO_Chef de rang H_F - en continue journée- 2300e_mois 2J de rep_06.2026.eml",
+    "statut": "GENERE",
+    "date": "23/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=73adecdb52e70296",
     "entreprise": "Société SMO",
     "titre": "Chef de rang H/F - 30H/Semaine en continue - 1900e/mois",
@@ -44,6 +101,7 @@
     "date": "23/06/2026"
   },
   {
+>>>>>>> 06fdaf6 (CV+LM 23/06 19h26)
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/209QHDW",
     "entreprise": "VILLE DE LYON",
     "titre": "Responsable de restaurant scolaire (H/F)",
