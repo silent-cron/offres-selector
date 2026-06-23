@@ -1,5 +1,27 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=7b006b2628074029",
+    "entreprise": "Accor",
+    "titre": "Chef de rang (H/F/X) - CDI - 35 heures",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Accor_Chef de rang (H_F_X) - CDI - 35 heures_06.2026.eml",
+    "statut": "GENERE",
+    "date": "23/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=78dc31b8c40d9834",
+    "entreprise": "Accor",
+    "titre": "Serveur F/H - CDI - 24H (poste ouvert aux étudiants) - Soir (18H30-22H30)",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Accor_Serveur F_H - CDI - 24H (poste ouvert aux étudiants) - Soir _06.2026.eml",
+    "statut": "GENERE",
+    "date": "23/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=758a0accb85967c6",
     "entreprise": "Accor",
     "titre": "Serveur petit déjeuner (F/H) - CDI - 20H - Matin (07H00-14H00)",
