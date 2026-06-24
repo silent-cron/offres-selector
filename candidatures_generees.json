@@ -1,5 +1,126 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=73957b232580542c",
+    "entreprise": "YAOZ",
+    "titre": "Serveur polyvalent H/F",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_YAOZ_Serveur_polyvalent_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210DCHZ",
+    "entreprise": "Hanoi Ca Phe",
+    "titre": "Serveuse/Serveur H/F 35H CDI (H/F)",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_Hanoi_Ca_Phe_ServeuseServeur_HF_35H_CDI_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210CNJT",
+    "entreprise": "Recruteur",
+    "titre": "Barmaid de bar à champagne (H/F)",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_Recruteur_Barmaid_de_bar_à_champagne_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210DQXJ",
+    "entreprise": "Brasserie Roseaux",
+    "titre": "Chef de Rang / Cheffe de Rang (H/F)",
+    "domaine": "BIM",
+    "score": 4,
+    "email_rh": "",
+    "eml_file": "Email_Brasserie_Roseaux_Chef_de_Rang_Cheffe_de_Rang_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210GFLK",
+    "entreprise": "France Travail",
+    "titre": "Serveur / Serveuse en restauration",
+    "domaine": "RESTO",
+    "score": 9,
+    "email_rh": "",
+    "eml_file": "Email_France_Travail_Serveur_Serveuse_en_restauration_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=91c638b670f81306",
+    "entreprise": "Non détecté",
+    "titre": "Non détecté",
+    "domaine": "RESTO",
+    "score": 6,
+    "email_rh": "",
+    "eml_file": "Email_Non_détecté_Non_détecté_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=83b0b40dd80ea9d8",
+    "entreprise": "ETIENNE Coffee & Shop Villeurbanne",
+    "titre": "Serveur / Barman CoffeeShop / Vendeur H/F CDI",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_ETIENNE_Coffee_Shop_Villeurbanne_Serveur_Barman_CoffeeShop_Vendeur_HF_CDI_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=fe1640bff62aeb87",
+    "entreprise": "Société SMO",
+    "titre": "Chef de rang H/F - en continue journée- 2300e/mois 2J de repos",
+    "domaine": "RESTO",
+    "score": 6,
+    "email_rh": "",
+    "eml_file": "Email_Société_SMO_Chef_de_rang_HF_en_continue_journée_2300emois_2J_de_repos_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=73adecdb52e70296",
+    "entreprise": "Société SMO",
+    "titre": "Chef de rang H/F - 30H/Semaine en continue - 1900e/mois",
+    "domaine": "RESTO",
+    "score": 6,
+    "email_rh": "",
+    "eml_file": "Email_Société_SMO_Chef_de_rang_HF_30HSemaine_en_continue_1900emois_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=7b006b2628074029",
+    "entreprise": "Accor",
+    "titre": "Chef de rang (H/F/X) - CDI - 35 heures",
+    "domaine": "RESTO",
+    "score": 6,
+    "email_rh": "",
+    "eml_file": "Email_Accor_Chef_de_rang_HFX_CDI_35_heures_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=78dc31b8c40d9834",
+    "entreprise": "Accor",
+    "titre": "Serveur F/H - CDI - 24H (poste ouvert aux étudiants) - Soir (18H30-22H30)",
+    "domaine": "RESTO",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Accor_Serveur_FH_CDI_24H_poste_ouvert_aux_étudiants_Soir_18H30_22H30_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=758a0accb85967c6",
     "entreprise": "Accor",
     "titre": "Serveur petit déjeuner (F/H) - CDI - 20H - Matin (07H00-14H00)",
