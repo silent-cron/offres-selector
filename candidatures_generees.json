@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=724ab2eea715f291",
+    "entreprise": "Inconnue",
+    "titre": "Employée polyvalente en restauration – Service & Accueil",
+    "domaine": "RESTO",
+    "score": 5,
+    "email_rh": "",
+    "eml_file": "Email_Inconnue_Employée_polyvalente_en_restauration_Service_Accueil_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4051656",
+    "entreprise": "Recruteur",
+    "titre": "Projeteur Electricité REVIT / Autocad (H/F)",
+    "domaine": "BIM",
+    "score": 7,
+    "email_rh": "",
+    "eml_file": "Email_Recruteur_Projeteur_Electricité_REVIT_Autocad_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4051686",
+    "entreprise": "B-HIVE",
+    "titre": "Ingénieur BIM traitement des eaux (H/F)",
+    "domaine": "BIM",
+    "score": 6,
+    "email_rh": "",
+    "eml_file": "Email_B_HIVE_Ingénieur_BIM_traitement_des_eaux_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=6b2230e2f0e581d6",
+    "entreprise": "Indisponible",
+    "titre": "Indisponible",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_Indisponible_Indisponible_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4087899",
+    "entreprise": "Oceania Lyon",
+    "titre": "Serveur H/F",
+    "domaine": "RESTO",
+    "score": 8,
+    "email_rh": "",
+    "eml_file": "Email_Oceania_Lyon_Serveur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "24/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=73957b232580542c",
     "entreprise": "YAOZ",
     "titre": "Serveur polyvalent H/F",
