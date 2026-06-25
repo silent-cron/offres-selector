@@ -1,5 +1,65 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=8972c77aa8017e82",
+    "entreprise": "ENGIE",
+    "titre": "Technicienne / Technicien de maintenance CVC - BOURGOIN-JALLIEU (F/H)",
+    "domaine": "BIM",
+    "pertinence": 38,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_ENGIE_Technicienne_Technicien_de_maintenance_CVC_BOURGOIN_JALLIEU_FH_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=cf2e3a7d50c4e71c",
+    "entreprise": "nan",
+    "titre": "Technicien frigoriste F/H",
+    "domaine": "BIM",
+    "pertinence": 45,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_nan_Technicien_frigoriste_FH_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=d6e5b4510e29eca2",
+    "entreprise": "AVNIR IMT",
+    "titre": "Spécialiste Design / Routage de Câbles Électriques – Nucléaire (H/F)",
+    "domaine": "BIM",
+    "pertinence": 22,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_AVNIR_IMT_Spécialiste_Design_Routage_de_Câbles_Électriques_Nucléaire_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3755864",
+    "entreprise": "Hippopotamus",
+    "titre": "Serveur / Serveuse en restauration (H/F)",
+    "domaine": "RESTO",
+    "pertinence": 90,
+    "tri_ordre": 1,
+    "email_rh": "",
+    "eml_file": "Email_Hippopotamus_Serveur_Serveuse_en_restauration_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/3955731",
+    "entreprise": "Inconnue",
+    "titre": "DBA SQL Serveur (H/F)",
+    "domaine": "RESTO",
+    "pertinence": 5,
+    "tri_ordre": 1,
+    "email_rh": "",
+    "eml_file": "Email_Inconnue_DBA_SQL_Serveur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/209SSNX",
     "entreprise": "Hanuri Korean Grill",
     "titre": "Serveur/Serveuse à temps partiel (H/F)",
