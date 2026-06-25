@@ -1,5 +1,65 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=89f1029dc2508d93",
+    "entreprise": "Infolegale",
+    "titre": "Gestionnaire d’infrastructures H/F",
+    "domaine": "BIM",
+    "pertinence": 8,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_Infolegale_Gestionnaire_dinfrastructures_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=eea932fa81484cf9",
+    "entreprise": "Groupe Atlantic",
+    "titre": "Non spécifié",
+    "domaine": "BIM",
+    "pertinence": 40,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_Groupe_Atlantic_Non_spécifié_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4233270",
+    "entreprise": "Non précisé",
+    "titre": "Projeteur Électricité Revit - CDI (H/F)",
+    "domaine": "BIM",
+    "pertinence": 70,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_Non_précisé_Projeteur_Électricité_Revit_CDI_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4238156",
+    "entreprise": "Profila",
+    "titre": "Projeteur / Modeleur CVC PB Revit à Lyon H/F",
+    "domaine": "BIM",
+    "pertinence": 70,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_Profila_Projeteur_Modeleur_CVC_PB_Revit_à_Lyon_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=4b8514b0334b3031",
+    "entreprise": "Coupés Coupés France",
+    "titre": "Serveur / Serveuse Confirmé(e) – CDI 20H – Restaurant Premium Lyon 9",
+    "domaine": "RESTO",
+    "pertinence": 72,
+    "tri_ordre": 1,
+    "email_rh": "",
+    "eml_file": "Email_Coupés_Coupés_France_Serveur_Serveuse_Confirmée_CDI_20H_Restaurant_Premium_Lyon_9_06.2026.eml",
+    "statut": "GENERE",
+    "date": "25/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=8972c77aa8017e82",
     "entreprise": "ENGIE",
     "titre": "Technicienne / Technicien de maintenance CVC - BOURGOIN-JALLIEU (F/H)",
