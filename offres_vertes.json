@@ -1,8 +1,8 @@
 {
-  "generated_at": "26/06/2026 07:30",
-  "total": 618,
-  "vertes": 468,
-  "bleues": 150,
+  "generated_at": "26/06/2026 07:52",
+  "total": 608,
+  "vertes": 462,
+  "bleues": 146,
   "retention_days": 30,
   "offres": [
     {
@@ -127,6 +127,24 @@
     },
     {
       "source": "France Travail",
+      "id": "210JRPY",
+      "titre": "Serveur / Serveuse de restaurant (H/F)",
+      "entreprise": "L'AUTHENTIK",
+      "ville": "69 - LYON 05",
+      "contrat": "CDI",
+      "salaire": "Horaire de 13.0 Euros sur 12 mois",
+      "description": "Nous recherchons un(e) serveur(se) en salle pour compléter notre équipe. Réactivité et sens du contact sont des qualités essentielles pour mener à bien vos missions, débutante(e) accepté(e).\n\nMissions :\n- Accueillir les clients et les installer.\n- Présenter le menu et prendre la commande.\n- Aller chercher les plats en cuisine et les servir.\n- Offrir les boissons puis débarrasser.\n- Présenter l'addition et encaisser.\n\nProfil :\n- Créer une relation avec les clients\n- Habilité à travailler dans environnement au rythme dynamique\n- Travailler en équipe.\n- Contrôle des règles et techniques du service.\n- Maîtrise parfaite de l'art relationnel.\n\n",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210JRPY",
+      "date": "2026-06-26",
+      "domaine": "RESTO",
+      "email_contact": "",
+      "niveau": 1,
+      "raison": "CDI restauration",
+      "jours_anciennete": 0,
+      "first_seen": "2026-06-26"
+    },
+    {
+      "source": "France Travail",
       "id": "4238156",
       "titre": "Projeteur / Modeleur CVC PB Revit à Lyon H/F",
       "entreprise": "Profila",
@@ -178,40 +196,6 @@
       "raison": "CDI restauration",
       "jours_anciennete": 1,
       "first_seen": "2026-06-26"
-    },
-    {
-      "source": "Indeed",
-      "id": "ed0f1599ef09",
-      "titre": "Serveur petit déjeuner (F/H) - CDI - 20H - Matin (07H00-14H00)",
-      "entreprise": "Accor",
-      "ville": "Pierre-Bénite, ARA, FR",
-      "contrat": "fulltime",
-      "salaire": "",
-      "description": "**Description de l'entreprise**  \n\nRejoigniez l'équipe de l'Ibis Lyon Sud Oullins, un hôtel récemment rénové, idéalement situé à 15 minutes de la Gare Part Dieu (Métro B \\- Gare Oullins) avec possiiblité de parking sur place.\n\n **Description du poste** **Nous recherchons pour le restaurant BOAM à Oullins un** **Serveur** **F/H, en CDI 20H pour le service du matin (principalement : 07H30\\-14H00 du Vendredi au Lundi).**\n\n**OBJECTIFS:**\n\n* Proposer un service attentionné et de qualité aux clients\n* Contribuer à la satisfaction de la clientèle par la qualité de ton travail\n* Etre vendeur\n* Contribuer à une ambiance de travail plaisante au sein de ton équipe\n\n**MISSIONS :**\n\n* Travailler et favoriser une bonne cohésion en équipe\n* Servir la clientèle et mettre en place la salle\n* Conseiller/animer/interagir avec la clientèle\n* Encaisser la clientèle\n* Gestion des approvisionnements, des stocks\n\n  \n\n**Qualifications**  \n\n* Bonne humeur, souriant et positif de nature\n* Esprit d'équipe\n* Dynamisme et rapidité\n* Organisation\n* Aisance relationnelle\n\n  \n\n**Informations supplémentaires** **Salaire :**\n\n\nEmployé Niveau 2 \\- Echelon 1 \\- 20 Heures / Hebdomadaires\n\n\nPrime de qualité Trimestrielle\n\n\nRemboursement de 50 % de l'abonnement transport / Mutuelle / Prévoyance\n\n\nAvantage en nature nourriture / Heures supplémentaires majorées payées après validation\n\n**Vivez en ACCOR avec vos talents, rejoignez\\-nous dès maintenant !**\n\n\n\\#BeALLYouAre.",
-      "url": "https://fr.indeed.com/viewjob?jk=758a0accb85967c6",
-      "date": "2026-06-25",
-      "domaine": "RESTO",
-      "niveau": 1,
-      "raison": "CDI restauration",
-      "jours_anciennete": 1,
-      "first_seen": "2026-06-25"
-    },
-    {
-      "source": "Indeed",
-      "id": "93e164bbea21",
-      "titre": "Serveur F/H - CDI - 24H (poste ouvert aux étudiants) - Soir (18H30-22H30)",
-      "entreprise": "Accor",
-      "ville": "Pierre-Bénite, ARA, FR",
-      "contrat": "fulltime",
-      "salaire": "",
-      "description": "**Description de l'entreprise**  \n\nRejoigniez l'équipe de l'Ibis Lyon Sud Oullins, un hôtel récemment rénové, idéalement situé à 15 minutes de la Gare Part Dieu (Métro B \\- Gare Oullins) avec possiiblité de parking sur place.\n\n **Description du poste** **Nous recherchons pour le restaurant BOAM à Oullins un** **Serveur** **F/H, en CDI 24H pour le service du soir (principalement : 18H30\\-22H30\\).**\n\n**OBJECTIFS:**\n\n* Proposer un service attentionné et de qualité aux clients\n* Contribuer à la satisfaction de la clientèle par la qualité de ton travail\n* Etre vendeur\n* Contribuer à une ambiance de travail plaisante au sein de ton équipe\n\n**MISSIONS :**\n\n* Travailler et favoriser une bonne cohésion en équipe\n* Servir la clientèle et mettre en place la salle\n* Conseiller/animer/interagir avec la clientèle\n* Encaisser la clientèle\n* Gestion des approvisionnements, des stocks\n\n  \n\n**Qualifications**  \n\n* Serveur expérimenté (1 an obligatoire ou étude de restauration)\n* Bonne humeur, souriant et positif de nature\n* Esprit d'équipe\n* Dynamisme et rapidité\n* Organisation\n* Aisance relationnelle\n* Leadership\n\n  \n\n**Informations supplémentaires** **Salaire :**\n\n\nEmployé Niveau 2 \\- Echelon 1 \\- 24 Heures / Hebdomadaires\n\n\nPrime de qualité Trimestrielle\n\n\nRemboursement de 50 % de l'abonnement transport / Mutuelle / Prévoyance\n\n\nAvantage en nature nourriture / Heures supplémentaires majorées payées après validation\n\n**Vivez en ACCOR avec vos talents, rejoignez\\-nous dès maintenant !**\n\n\n\\#BeALLYouAre.",
-      "url": "https://fr.indeed.com/viewjob?jk=78dc31b8c40d9834",
-      "date": "2026-06-25",
-      "domaine": "RESTO",
-      "niveau": 1,
-      "raison": "CDI restauration",
-      "jours_anciennete": 1,
-      "first_seen": "2026-06-25"
     },
     {
       "source": "France Travail",
@@ -496,7 +480,7 @@
       "niveau": 1,
       "raison": "CDI restauration",
       "jours_anciennete": 8,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "Indeed",
@@ -947,7 +931,7 @@
       "entreprise": "L'AUTHENTIK",
       "ville": "69 - LYON 05",
       "contrat": "CDI",
-      "salaire": "Horaire de 13.5 Euros à 16.0 Euros sur 12.0 mois",
+      "salaire": "Horaire de 13.5 Euros à 16.0 Euros sur 12 mois",
       "description": "Au sein de l'équipe de salle, vous aurez la responsabilité de votre rang.\n\nSous l'autorité du directeur d'établissement, vous assurerez la prise en charge du client: accueil, prise de commande, suivi du service, encaissement.\nVous ferez la mise en place de la salle et des offices.\n\nVos missions :\n- Assurer un service de qualité.\n- Encadrer et former des commis.\n- Veiller au bon déroulement du service.\n- Veiller sur l'ensemble d'un groupe de tables.\n- Maîtriser le flambage et le découpage.\n- Aider au service et au débarrassage.\n- Vérifier la satisfaction du client.\n\nProfil :\n- Sens inné de la relation client.\n- Amabilité et discrétion de bon aloi.\n- Adaptabilité aux cadences infernales.\n- Curiosité pour l'art culinaire.\n- Mémoire sans faille.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/208ZCCP",
       "date": "2026-06-01",
@@ -956,7 +940,7 @@
       "niveau": 1,
       "raison": "CDI restauration",
       "jours_anciennete": 25,
-      "first_seen": "2026-06-22"
+      "first_seen": "2026-06-26"
     },
     {
       "source": "France Travail",
@@ -1152,7 +1136,7 @@
       "niveau": 1,
       "raison": "BIM/Revit dans titre · CDI",
       "jours_anciennete": 29,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -2298,57 +2282,6 @@
       "first_seen": "2026-06-26"
     },
     {
-      "source": "Indeed",
-      "id": "e20e52dcaeb4",
-      "titre": "Chef de partie H/F",
-      "entreprise": "RIVE",
-      "ville": "Lyon 6e, ARA, FR",
-      "contrat": "fulltime",
-      "salaire": "",
-      "description": "**Poste à pourvoir à partir de Juillet 2026**\n\nVous n’avez pas le mal de mer et vous recherchez une véritable aventure humaine et professionnelle ?  \nRejoignez\\-nous pour **l’ouverture d’un tout nouvel établissement flottant**, au cœur de Lyon.\n\nNous recherchons h/f :\n\n* **Chef / cheffe de partie**\n* **Chef / cheffe de partie pâtisserie**\n* **Chef / cheffe de rang**\n* Commis de salle\n* **Barman/Barmaid**\n* Hôte/Hôtesse d'acccueil\n\nEn lien direct avec les chefs, vous serez chargé(e) de :\n\n* Tenir le poste chaud et/ou froid de A à Z\n* Faire preuve d'organisation, et de rigueur\n* Maitriser les règles HACCP\n* Faire preuve de créativité pour l'élaboration de la carte et des plats du jour\n* Contribuer pleinement au lancement et à la structuration du site\n\nNous recherchons des profils expérimentés, avec une expérience solide en cuisine et la volonté de faire partie intégrante d'une brigade passionnée.\n\nTypée brasserie, la péniche accueillera jusqu'à 400 couverts par service à travers une carte composée de produits de qualité arborant les saisons.\n\nRestauration midi, limonade l'après\\-midi, bar, tapas et restauration le soir ; nombreux événement pros et particuliers. *Ouvert 7j/7 toute l'année.*\n\nPrimes d'objectifs, pourboires, accompagnement fort en interne, bonnes conditions de travail.\n\nCDD ou CDI possible. Salaires selon compétences et profils, horaires pointés, majoritairement en continus, 2 jours de repos consécutifs.\n\nType d'emploi : Temps plein, CDI, CDD\n\n**Poste à pourvoir à partir de Juillet 2026**\n\nType d'emploi : Temps plein, CDI, CDD\n\nRémunération : 2 436,00€ à 3 205,00€ par mois\n\nExpérience:\n\n* cuisine: 4 ans (Requis)\n\nLieu du poste : En présentiel",
-      "url": "https://fr.indeed.com/viewjob?jk=07dd0473b5b2cff5",
-      "date": "2026-06-25",
-      "domaine": "RESTO",
-      "niveau": 2,
-      "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 1,
-      "first_seen": "2026-06-25"
-    },
-    {
-      "source": "Indeed",
-      "id": "eaf9881c558a",
-      "titre": "Vendeur(se) rentrée 24 Aout - Serveur(se) polyvalent(e) 35h restauration rapide haut de gamme H/F",
-      "entreprise": "Compose - Bar à salade sur mesure",
-      "ville": "Lyon 6e, ARA, FR",
-      "contrat": "fulltime",
-      "salaire": "",
-      "description": "COMPOSE est une une cantine sur mesure ouverte en 2021 conciliant restauration rapide et cuisine équilibrée, nous sommes **ouverts 7/7j** et bénéficions d'une terrasse en période estivale. L'esprit COMPOSE c'est avant tout une équipe jeune et dynamique avec un sens de l'accueil différenciant !\n\nDésireux de répondre aux envies et attentes de chacun, la proximité avec le client est revendiquée ! COMPOSE a réuni les ingrédients nécessaires pour offrir du sain, du bon, du frais, du froid comme du chaud, des sourires, des rencontres, un bel endroit, pour un maximum de plaisir !\n\nPlus d’informations ? Viens nous découvrir ici :\n\nhttps://www.petitpaume.com/article/chaud\\-devant\\-compose\\-lincontournable\\-cantine\\-sur\\-mesure\\-a\\-lyon\n\nhttps://www.instagram.com/compose.lyon/\n\nVous êtes convaincu de l’importance d’une pause déjeuner réussie ? Rejoignez\\-nous !\n\nNous cherchons un employé polyvalent **H/F en temps plein 35h à compter du lundi 24 AOUT** pour assurer des services du midi en semaine et un à deux soirs par semaine notamment le week end. L'équipier participera au service et sera en contact avec la clientèle, il(elle) doit être ponctuel(le), souriant(e), avoir un bon contact et être dynamique.\n\nVous serez formé à notre savoir\\-faire pour les postes suivants :\n\n* Accueillir et renseigner les clients sur notre concept et notre offre et leur faire vivre une parenthèse de bonheur pour un déjeuner réussie\n* Prise de commande et préparation des salades devant le client\n* Gérer les encaissements\n* Management du pôle UberEats et Click\\&collect\n* Participation au débarrassage et à la mise en place du restaurant\n* Formation des nouveaux arrivants\n* Prise de commande et préparation des salades devant le client\n\nVos qualités principales :\n\n* Expérience en restauration rapide souhaitée\n* Dynamique, souriant(e) et ponctuel(le)\n* Rigoureux(se)\n* Connaissance et maîtrise des normes d'hygiènes (Méthode HACCP)\n* Capacité d'adaptation et politesse\n* Etre familier avec les outils de caisses, la gestion des commandes et la gestion d’équipe est un plus\n\nEt surtout :\n\n* Vous êtes motivé(e) et enthousiaste à l'idée de participer au développement d’un jeune restaurant\n* Travailler en équipe ne vous fait pas peur\n* Vous êtes souriant(e) et à l’écoute\n\nLes conditions :\n\n* Repas offert\n* Petite équipe, nombreux projets et perspective d’évolution\n\nType d'emploi : CDI, Temps plein\n\nRémunération : 1 450,00€ à 1 600,00€ par mois\n\nAvantages :\n\n* Restaurant d'entreprise\n\nLieu du poste : En présentiel",
-      "url": "https://fr.indeed.com/viewjob?jk=5fc3d0a8316a2dc6",
-      "date": "2026-06-25",
-      "domaine": "RESTO",
-      "niveau": 2,
-      "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 1,
-      "first_seen": "2026-06-25"
-    },
-    {
-      "source": "Indeed",
-      "id": "690a4fb0ce25",
-      "titre": "Chef de rang H/F",
-      "entreprise": "TRATTINO",
-      "ville": "Lyon 7e, ARA, FR",
-      "contrat": "fulltime",
-      "salaire": "",
-      "description": "**TRATTINO, C'EST QUOI ?**\n\nTrattino est le premier tiers\\-lieu éco\\-responsable dédié à l’éco\\-alimentation (100% bio, locale, équitable, en circuits courts, de saison et faite maison) et à la Culture.\n\nInstallé dans un ancien hangar industriel totalement réhabilité, Trattino associe une épicerie fine, un restaurant, un bar\\-café et des animations culturelles sous le même toit, au sein d’un super espace de 730 m2 : 380 m2 intérieur et une terrasse de 350 m2 !\n\nL’univers Trattino tient dans trois valeurs : transparence et traçabilité, créatrice de lien et entrepreneuriat. Pour assurer notre croissance et proposer la meilleure expérience possible à nos nombreux clients, nous recherchons **un·e chef·fe de rang (39h)** qui intégrera notre équipe dès que possible.\n\n**DESCRIPTION DU POSTE**\n\n* Mise en place de la salle\n* Assurer la satisfaction des clients\n* Aider à la structuration de l’équipe salle\n* Prise des commandes au sein de son carré (environ 50 couverts)\n* Conseiller les clients dans leur expérience culinaire 100% bio et faite maison\n\n**LES PLUS**\n\nRattaché directement au COO, ce poste vous offre la possibilité :\n\n* De travailler du mardi au samedi avec 2 continues et 3 coupures \\+ 2 jours OFF\n* De bénéficier de nombreux avantages : repas du personnel, mutuelle, 30% sur l’épicerie, pourboires...\n* D'intégrer une aventure entrepreneuriale avec de fortes perspectives d'évolution\n* D’acquérir rapidement des compétences avec l’accroissement de Trattino... Au sein d’une équipe jeune, dynamique, engagée et parfois drôle !\n\n**PROFIL RECHERCHÉ**\n\n* Expérience d’au moins 1 an en service\n* Ponctuel·le, ambitieux·se et rigoureux·se\n* Envie de se surpasser dans ce lieu ambitieux\n* Ayant l’esprit entrepreneurial et le sens du défi\n* Dynamique, enthousiaste et force de proposition\n* Partageant les valeurs du bio, de la valorisation paysanne, du local...\n\n*Trattino est engagé dans une politique en faveur de l’intégration et du maintien dans l’emploi des personnes en situation de handicap*\n\nType d'emploi : Temps plein, CDI\n\nRémunération : à partir de 12,02€ par heure\n\nAvantages :\n\n* Prise en charge du transport quotidien\n\nCapacité à faire le trajet ou à déménager:\n\n* 69007 Lyon 7e: Faire le trajet sans problème ou prévoir un déménagement avant de prendre son poste (Requis)\n\nQuestion(s) de présélection:\n\n* Avez\\-vous un titre de séjour en cours de validité ? Si oui, jusqu'à quand est\\-il valide ?\n\nFormation:\n\n* CAP / BEP (Optionnel)\n\nExpérience:\n\n* restauration: 1 an (Requis)\n\nLieu du poste : En présentiel",
-      "url": "https://fr.indeed.com/viewjob?jk=5cd11c8300d54f9e",
-      "date": "2026-06-25",
-      "domaine": "RESTO",
-      "niveau": 2,
-      "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 1,
-      "first_seen": "2026-06-25"
-    },
-    {
       "source": "France Travail",
       "id": "210HDYX",
       "titre": "Employé de Restauration Collective (h/f) (H/F)",
@@ -2394,24 +2327,6 @@
       "salaire": "",
       "description": "A propos du poste\n\nAfin de renforcer l'équipe terrain, nous recherchons un assistant manager pour notre restaurant  O 'Tacos situé à Lyons Vénissieux  nous recherchons le candidat idéal prêt à relever ce défi  !\n\n\nAprès une formation théorique et pratique, vos principales missions seront :\n\nOpérationnelles : \n \n- Accueillir le client et enregistrer les commandes sur le logiciel de caisse\n- Encaisser les commandes clients\n- Présenter et renseigner le client sur les produits proposés par l'enseigne O'TACOS \n- Proposer au client la carte de fidélité YouFid\n- Présenter en cas de demande du client la certification halal\n- Etablir un fond de caisse, vérifier et compter la caisse à chaque fin de service\n- Etiqueter les desserts avec une DLC secondaire\n- Réapprovisionner l'armoire à boisson et desserts\n- Vérification des stocks (boissons, desserts, salades, divers emballages)\n- Allumage des écrans (Menuboard/PLV/TV salle)\n- Vérification présence affichage au comptoir caisse et mise à disposition de la clientèle à titre d'information des documents suivants :\n Origine des viandes bovines\n Tableau des listes des allergènes\n- Conception et contrôle des plannings\n- Passage des commandes \n- Reconquête client en cas de plainte-client\n- Participer à la vie du réseau\n- Confection des produits de l'atelier O'Sucré \n\n\nManagériales :\n\n- Co-fixer des objectifs et évaluer les performances de son équipe lors d'un briefing avant chaque service : \n Ventes additionnelles,\n Campagne en cours\n Client mystère\n Hygiène et Sécurité\n- Proposer des formations avec planification des sessions sur la plateforme E-Learning et suivi de la formation Initiale\n- Evaluer les besoins en formation de son équipe et les faire remonter au manager\n- Etre un support opérationnel \n\n\nHygiènes :\n\n- Respecter la procédure de lavage des mains et le port de la tenue réglementaire O'TACOS\n- Superviser le personnel et s'assurer que les procédures (qualité produit et sécurité alimentaire, règles d'hygiène et de sécurité) sont respectées\n- Réceptionner les produits lors de la livraison et contrôler la conformité des produits puis renseigner le bon de livraison sur le cahier HACCP\n- Vérifier que les plannings de nettoyage et désinfection sont affichés dans les différentes zones du restaurant et dûment remplis",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/210GLHN",
-      "date": "2026-06-24",
-      "domaine": "RESTO",
-      "email_contact": "",
-      "niveau": 2,
-      "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 2,
-      "first_seen": "2026-06-26"
-    },
-    {
-      "source": "France Travail",
-      "id": "210GBMT",
-      "titre": "EQUIPIER(E) POLYVALENT(E) DE RESTAURATION RAPIDE (H/F)",
-      "entreprise": "NEW SCHOOL & BIG SMASH LYON GHD",
-      "ville": "69 - Lyon 2e Arrondissement",
-      "contrat": "CDI",
-      "salaire": "Horaire de 12.31 Euros sur 12 mois",
-      "description": "Dans le cadre de l'ouverture de notre nouveau Restaurant combinant deux concepts de marque ultra-tendance de Tacos et Burger, nous recrutons 2 équipiers polyvalent(e)s de restauration temps plein ou temps partiel 25h minimum. \n\nVous avez le sens du service et vous êtes dynamique ? \nVous avez le souhait de vous investir dans la restauration et peut-être y évoluer significativement ? \n\nRejoignez notre équipe et participer à son développement à nos côtés.\n\nVous aurez pour missions  : \n\n- préparation en cuisine des commandes selon de nombreuses recettes définies \n- mise en place des produits (boissons, sandwiches, etc.) en vitrine \n- accueil des clients\n- prise des commandes \n- encaissement des commandes\n- suivi des dates limites de consommation et de la chaîne du froid \n- conditionnement et l'étiquetage des produits \n- gestion des stocks \n- entretien du matériel, de l'équipement et des locaux \n\nUne période de formation complète vous permettra de vous familiariser avec votre poste et vous sentir en parfaite autonomie dans votre travail d'équipe !",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210GBMT",
       "date": "2026-06-24",
       "domaine": "RESTO",
       "email_contact": "",
@@ -2583,41 +2498,6 @@
       "first_seen": "2026-06-26"
     },
     {
-      "source": "Indeed",
-      "id": "7ee3bf63fc51",
-      "titre": "Chef de Rang confirmé H/F/NB",
-      "entreprise": "Gruppo Peppe",
-      "ville": "Lyon, ARA, FR",
-      "contrat": "nan",
-      "salaire": "",
-      "description": "Chez **Gruppo Peppe**, on partage bien plus que des pizzas : une ambiance chaleureuse, une équipe soudée et pleine d’énergie, portée par la passion de la tradition napolitaine.\n\n\nNos recettes sont signées par Peppe Cutraro, multiple champion du monde de la pizza napolitaine.\n\n\nNotre groupe allie savoir\\-faire artisanal et innovation et nos pizzas son réalisés avec des ingrédients d’Italie soigneusement sélectionnés et avec une pâte fermentée naturellement, tout chez nous est fait maison !\n\n\nIci, chaque client vit une expérience italienne unique, grâce à notre accueil sincère et notre créativité culinaire que vous trouvez dans nos 6 restaurants situés entre Paris et Lyon.\n\n\nGruppo Peppe vise à développer la marque avec de nouvelles ouvertures en 2026, toujours dans le but de satisfaire nos clients et garantir l’évolution des carrières en interne grâce à la méritocratie.\n\n\nRejoignez\\-nous pour faire partie de cette belle aventure humaine et gourmande !\n\n**En tant que Chef de Rang confirmé(e) vos missions principales seront :**\n\n* **Garantir un service de qualité,** tout en étant à l’aise avec le rythme rapide du service.\n* **Accueillir les clients avec le sourire,** les installer confortablement et leur présenter la carte avec enthousiasme, lui faire vivre une véritable et chaleureuse expérience.\n* **Préparer et maintenir la mise en place du restaurant avant et pendant le service** — le sens du détail fait toute la différence.\n* **Être un véritable ambassadeur des valeurs** du Gruppo Peppe **: convivialité, passion, authenticité et italianité,** bien connaître nos plats et produits pour conseiller les clients et booster les ventes**.**\n* **Coordonner et soutenir les runners** en donnant des instructions claires et en participant activement au service.\n* **Veiller à la tenue impeccable du restaurant** et au respect des procédures internes (hygiène, sécurité, qualité).\n* **Gérer la réception des livraisons :** contrôler les marchandises à leur arrivée et signaler toute anomalie**.**\n\n**Profil recherché :**\n\n* Vous justifiez d’au moins 3 ans d’expérience dans un poste similaire.\n* La maîtrise des outils Zelty et Sunday serait un vrai plus.\n* La connaissance de la langue française est essentielle pour la bonne réussite de l’expérience client, la connaissance de l’italien est un vrai \\+\\+ !\n* Vos atouts principaux : Autonomie, Organisation \\& polyvalence, Réactivité \\& dynamisme, Bonne humeur naturelle, Esprit d’équipe, Aisance relationnelle.\n\n**La structure de rémunération et des avantages est la suivante :**\n\n* Rémunération : 30K/an (Brut) (44H/semaine)\n* Possibilité d’hébergement : logement en appartement partagé disponible.\n* Primes et remise repas dans les restaurant du groupe\n* Mutuelle Alan, indemnité nature et remboursement du 50% des titres de transport, selon la loi.\n\n\nSi cette offre vous parle et que vous souhaitez contribuer au succès de cette mission, nous avons hâte de vous rencontrer ! POSTULEZ dès maintenant en envoyant votre CV en réponse à cette annonce.\n\n\nVous pourriez bien être notre prochaine « pépite Peppe » prête à briller dans notre équipe !",
-      "url": "https://fr.indeed.com/viewjob?jk=346247b6ada1f207",
-      "date": "2026-06-23",
-      "domaine": "RESTO",
-      "niveau": 2,
-      "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 3,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "source": "France Travail",
-      "id": "4120196",
-      "titre": "Employé polyvalent (F/H)",
-      "entreprise": "APPART'CITY Lyon Vaise St Cyr",
-      "ville": "69 - Lyon 9e Arrondissement",
-      "contrat": "CDD - 1 Mois",
-      "salaire": "Mensuel de 1280.0 Euros à 1280.0 Euros",
-      "description": "RESPONSABILITÉS : Votre mission au quotidien ... Selon la structure de l'appart-hôtel et les directives de votre direction, vous êtes en charge de l'entretien des parties communes de l'Appart'City (salle petit-déjeuner, salons, salles de séminaires, hall d'accueil, bureaux, sanitaires, escaliers, ascenseurs, offices...). Vous avez également pour mission d'assurer la gestion du service du petit-déjeuner. Vous aurez les responsabilités suivantes : • Entretenir et nettoyer les parties communes de l'établissement (hall d'entrée, réception, vestiaires, sanitaires, couloirs, espaces séminaires, offices...), • Entretenir et nettoyer les abords de l'appart-hôtel (parking extérieur et sous-sol, vider les cendriers, arroser les plantes...), • Accueillir les clients au service petit-déjeuner et les informer du fonctionnement du buffet, • Mettre en place, débarrasser et nettoyer le buffet petit-déjeuner, • Nettoyer et ranger la salle petit-déjeuner (vaisselle, matériel, sols...) et les offices après le service, • Réceptionner, contrôler et stocker les marchandises (linge, produits, denrées alimentaires), • Suivre et gérer les stocks marchandises (linge, produits, denrées alimentaires), • Gérer les ordures ménagères, • Mettre en place les salles de séminaires (disposition de la salle, installation du matériel, dresser et débarrasser les pauses...), • Appliquer et veiller au respect des règles d'hygiène et de sécurité, • Veiller à l'entretien et au bon fonctionnement du matériel mis à disposition. Le tout en incarnant et véhiculant les valeurs de notre groupe auprès des collaborateurs et de nos clients. PROFIL RECHERCHÉ : Votre profil ... • Exemplarité, passion pour le métier et sens du service client, • Organisation, rigueur et dynamisme, • Bonne présentation. Le petit + : Bon niveau d'anglais pour échanger avec la clientèle étrangère Pourquoi nous rejoindre ? • Un groupe avec des opportunités d'évolution, • Des formations continues pour développer vos compétences, • Un environnement dynamique et une expérience humaine. Modalités et avantages ... • CDD à temps partiel 24h à pourvoir à partir du 23/07/2026 jusqu'au 14/08/2026, • Rémunération attractive : 1280€ mensuels bruts, • Carte tickets restaurants (10€/jour, pris en charge à 60%), • Mutuelle avantageuse, • Prise en charge des transports en commun à hauteur de 75% • Accès à notre comité social et économique. Appart'City s'engage en faveur de l'inclusion et de l'égalité, nous accueillons avec bienveillance toutes les candidatures dans un environnement de travail inclusif, adapté aux personnes en situation de handicap. Le parcours de recrutement ... Nous nous engageons à analyser votre candidature sous 15 jours. Si votre profil correspond, vous serez contacté(e) pour un échange téléphonique suivi d'un entretien.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4120196",
-      "date": "2026-06-23",
-      "domaine": "RESTO",
-      "email_contact": "",
-      "niveau": 2,
-      "raison": "Restauration / evenementiel / accueil",
-      "jours_anciennete": 3,
-      "first_seen": "2026-06-23"
-    },
-    {
       "source": "France Travail",
       "id": "4095075",
       "titre": "Technicien(ne) Études & Chiffrage HVAC (H/F)",
@@ -2768,6 +2648,23 @@
       "salaire": "",
       "description": "Pizzeria restaurant italien Bistro gusto a brignais recherche pour renforcer son équipe, un auto entrepreneur en service pour des extras sur juin, juillet et aout\n\nProfil:\n\n\\- une première expérience en tant que serveur dans un restaurant traditionnel obligatoire\n\n\\- dynamique, bonne présentation\n\n\\- être véhiculé obligatoirement car pas de transport en commun\n\n\\- aime le travail en équipe\n\n\\- tout profil accepte: tatoué, percé….\n\npossibilité de plus d’heures pendant les midis de la semaine si cela vous intéresse\n\nÉquipe jeune et dynamique\n\nType d'emploi : Temps partiel , contrat auto entrepreneur\n\nSalaire : 18€ à 20€ /heure selon expérience\n\nDispos de suite pour rejoindre une équipe jeune et dynamique qui aime le travail en équipe.\n\nenvoyer votre Cv, ou Se présenter directement au restaurant bistro gusto , 3 route de lyon, 69530 brignais avec son CV.\n\nType d'emploi : Temps partiel, Indépendant / freelance\n\nRémunération : 18,00€ à 20,00€ par heure\n\nCapacité à faire le trajet ou à déménager:\n\n* 69530 Brignais: Faire le trajet sans problème ou prévoir un déménagement avant de prendre son poste (Requis)\n\nQuestion(s) de présélection:\n\n* Êtes vous auto entrepreneur ?\n\nLieu du poste : En présentiel",
       "url": "https://fr.indeed.com/viewjob?jk=e08c4b55ec62d397",
+      "date": "2026-06-22",
+      "domaine": "RESTO",
+      "niveau": 2,
+      "raison": "Serveur/se / chef de rang",
+      "jours_anciennete": 4,
+      "first_seen": "2026-06-22"
+    },
+    {
+      "source": "Indeed",
+      "id": "7ee3bf63fc51",
+      "titre": "Chef de Rang confirmé H/F/NB",
+      "entreprise": "Gruppo Peppe",
+      "ville": "Lyon, ARA, FR",
+      "contrat": "nan",
+      "salaire": "",
+      "description": "Chez **Gruppo Peppe**, on partage bien plus que des pizzas : une ambiance chaleureuse, une équipe soudée et pleine d’énergie, portée par la passion de la tradition napolitaine.\n\n\nNos recettes sont signées par Peppe Cutraro, multiple champion du monde de la pizza napolitaine.\n\n\nNotre groupe allie savoir\\-faire artisanal et innovation et nos pizzas son réalisés avec des ingrédients d’Italie soigneusement sélectionnés et avec une pâte fermentée naturellement, tout chez nous est fait maison !\n\n\nIci, chaque client vit une expérience italienne unique, grâce à notre accueil sincère et notre créativité culinaire que vous trouvez dans nos 6 restaurants situés entre Paris et Lyon.\n\n\nGruppo Peppe vise à développer la marque avec de nouvelles ouvertures en 2026, toujours dans le but de satisfaire nos clients et garantir l’évolution des carrières en interne grâce à la méritocratie.\n\n\nRejoignez\\-nous pour faire partie de cette belle aventure humaine et gourmande !\n\n**En tant que Chef de Rang confirmé(e) vos missions principales seront :**\n\n* **Garantir un service de qualité,** tout en étant à l’aise avec le rythme rapide du service.\n* **Accueillir les clients avec le sourire,** les installer confortablement et leur présenter la carte avec enthousiasme, lui faire vivre une véritable et chaleureuse expérience.\n* **Préparer et maintenir la mise en place du restaurant avant et pendant le service** — le sens du détail fait toute la différence.\n* **Être un véritable ambassadeur des valeurs** du Gruppo Peppe **: convivialité, passion, authenticité et italianité,** bien connaître nos plats et produits pour conseiller les clients et booster les ventes**.**\n* **Coordonner et soutenir les runners** en donnant des instructions claires et en participant activement au service.\n* **Veiller à la tenue impeccable du restaurant** et au respect des procédures internes (hygiène, sécurité, qualité).\n* **Gérer la réception des livraisons :** contrôler les marchandises à leur arrivée et signaler toute anomalie**.**\n\n**Profil recherché :**\n\n* Vous justifiez d’au moins 3 ans d’expérience dans un poste similaire.\n* La maîtrise des outils Zelty et Sunday serait un vrai plus.\n* La connaissance de la langue française est essentielle pour la bonne réussite de l’expérience client, la connaissance de l’italien est un vrai \\+\\+ !\n* Vos atouts principaux : Autonomie, Organisation \\& polyvalence, Réactivité \\& dynamisme, Bonne humeur naturelle, Esprit d’équipe, Aisance relationnelle.\n\n**La structure de rémunération et des avantages est la suivante :**\n\n* Rémunération : 30K/an (Brut) (44H/semaine)\n* Possibilité d’hébergement : logement en appartement partagé disponible.\n* Primes et remise repas dans les restaurant du groupe\n* Mutuelle Alan, indemnité nature et remboursement du 50% des titres de transport, selon la loi.\n\n\nSi cette offre vous parle et que vous souhaitez contribuer au succès de cette mission, nous avons hâte de vous rencontrer ! POSTULEZ dès maintenant en envoyant votre CV en réponse à cette annonce.\n\n\nVous pourriez bien être notre prochaine « pépite Peppe » prête à briller dans notre équipe !",
+      "url": "https://fr.indeed.com/viewjob?jk=346247b6ada1f207",
       "date": "2026-06-22",
       "domaine": "RESTO",
       "niveau": 2,
@@ -4145,8 +4042,8 @@
       "entreprise": "GROUPE ELIOR",
       "ville": "69 - LYON 05",
       "contrat": "CDI",
-      "salaire": "Horaire de 12.31 Euros sur 12 mois",
-      "description": "Poste à pourvoir au sein d'une équipe hospitalière : \nNous recrutons une personne pour assurer la production de sandwichs, salades, desserts et petits plats, entre 7h et 11h. Vos missions incluront également le conseil à la clientèle sur nos produits, ainsi que la gestion de caisse.\nNotre boutique gère également les services de wifi et de télévision du Centre de rééducation.\n\nProfil recherché :\nAutonome et polyvalent(e), capable de s'adapter à différents postes.\nFormation assurée sur place.\nDisponibilité requise pour des heures supplémentaires en juillet et août.\nN'hésitez pas à postuler si ce poste vous intéresse !",
+      "salaire": "Horaire de 12.31 Euros",
+      "description": "Dans une équipe à l'hôpital..\nNous recherchons une personne de 7h à 11h pour faire de la production de sandwichs, salades ,desserts et petits plats. Savoir également conseiller à la clientèle nos produits à la vente , gérer une caisse. La boutique gère la wifi et la télé du Centre de rééducation . \nÊtre autonome et polyvalent sur plusieurs postes. Formation sur place. Juillet et aout  prévoir des heures supplémentaires.   ",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/209RHXG",
       "date": "2026-06-12",
       "domaine": "RESTO",
@@ -4154,7 +4051,7 @@
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
       "jours_anciennete": 14,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-19"
     },
     {
       "source": "Indeed",
@@ -5112,7 +5009,7 @@
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
       "jours_anciennete": 21,
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -6197,6 +6094,24 @@
     },
     {
       "source": "France Travail",
+      "id": "3131034",
+      "titre": "Projeteur Électricité Revit - Intérim (H/F)",
+      "entreprise": "",
+      "ville": "69 - Lyon 1er Arrondissement",
+      "contrat": "Intérim - 6 Mois",
+      "salaire": "",
+      "description": "Groupe d'ingénierie international spécialisé dans la conception et la réalisation de projets d'infrastructures et de bâtiments complexes, la société intervient sur des projets à forte valeur technique dans les domaines du transport, de l'énergie et du bâtiment.\n\nElle accompagne ses clients sur l'ensemble du cycle des projets, de la conception à la réalisation, en mobilisant des équipes pluridisciplinaires d'ingénieurs et de projeteurs.\n\nDans le cadre du développement de ses activités bâtiment, elle recherche un Projeteur Électricité maîtrisant Revit pour intervenir sur des projets techniques en environnement BIM.\n\nLe poste : \n\nRattaché au responsable d'activité électricité, vous participez à la conception et à la production des études électriques sur des projets de bâtiments complexes.\n\nVos missions principales :\n\nRéalisation des plans électriques CFO/CFA sous Revit MEP\n\nModélisation des installations électriques en environnement BIM\n\nRéalisation des plans d'implantation et de distribution\n\nÉlaboration des schémas électriques et synoptiques\n\nParticipation à la coordination technique avec les autres lots (CVC, structure, architecture)\n\nMise à jour des maquettes numériques et des plans d'exécution\n\nParticipation aux réunions de synthèse technique\n\nProfil recherché : \n\nFormation technique en électricité ou électrotechnique\n\nExpérience en bureau d'études ou en ingénierie\n\nMaîtrise de Revit MEP indispensable\n\nConnaissances en courants forts / courants faibles\n\nUne expérience en environnement BIM est appréciée\n\nRigueur, autonomie et capacité à travailler en équipe",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3131034",
+      "date": "2026-05-28",
+      "domaine": "BIM",
+      "email_contact": "",
+      "niveau": 2,
+      "raison": "BIM/Revit dans titre",
+      "jours_anciennete": 29,
+      "first_seen": "2026-06-22"
+    },
+    {
+      "source": "France Travail",
       "id": "3126216",
       "titre": "Employé de brasserie (H/F)",
       "entreprise": "",
@@ -6211,7 +6126,7 @@
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
       "jours_anciennete": 29,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -6229,25 +6144,7 @@
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
       "jours_anciennete": 29,
-      "first_seen": "2026-06-24"
-    },
-    {
-      "source": "France Travail",
-      "id": "3131034",
-      "titre": "Projeteur Électricité Revit - Intérim (H/F)",
-      "entreprise": "",
-      "ville": "69 - Lyon 1er Arrondissement",
-      "contrat": "Intérim - 6 Mois",
-      "salaire": "",
-      "description": "Groupe d'ingénierie international spécialisé dans la conception et la réalisation de projets d'infrastructures et de bâtiments complexes, la société intervient sur des projets à forte valeur technique dans les domaines du transport, de l'énergie et du bâtiment.\n\nElle accompagne ses clients sur l'ensemble du cycle des projets, de la conception à la réalisation, en mobilisant des équipes pluridisciplinaires d'ingénieurs et de projeteurs.\n\nDans le cadre du développement de ses activités bâtiment, elle recherche un Projeteur Électricité maîtrisant Revit pour intervenir sur des projets techniques en environnement BIM.\n\nLe poste : \n\nRattaché au responsable d'activité électricité, vous participez à la conception et à la production des études électriques sur des projets de bâtiments complexes.\n\nVos missions principales :\n\nRéalisation des plans électriques CFO/CFA sous Revit MEP\n\nModélisation des installations électriques en environnement BIM\n\nRéalisation des plans d'implantation et de distribution\n\nÉlaboration des schémas électriques et synoptiques\n\nParticipation à la coordination technique avec les autres lots (CVC, structure, architecture)\n\nMise à jour des maquettes numériques et des plans d'exécution\n\nParticipation aux réunions de synthèse technique\n\nProfil recherché : \n\nFormation technique en électricité ou électrotechnique\n\nExpérience en bureau d'études ou en ingénierie\n\nMaîtrise de Revit MEP indispensable\n\nConnaissances en courants forts / courants faibles\n\nUne expérience en environnement BIM est appréciée\n\nRigueur, autonomie et capacité à travailler en équipe",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3131034",
-      "date": "2026-05-28",
-      "domaine": "BIM",
-      "email_contact": "",
-      "niveau": 2,
-      "raison": "BIM/Revit dans titre",
-      "jours_anciennete": 29,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -6476,7 +6373,7 @@
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
       "jours_anciennete": 31,
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -6494,7 +6391,7 @@
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
       "jours_anciennete": 31,
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -6624,6 +6521,24 @@
     },
     {
       "source": "France Travail",
+      "id": "208RCGR",
+      "titre": "EQUIPIER(E) POLYVALENT(E) DE RESTAURATION RAPIDE (H/F)",
+      "entreprise": "NEW SCHOOL & BIG SMASH LYON GHD",
+      "ville": "69 - Lyon 2e Arrondissement",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1823.03 Euros sur 12 mois",
+      "description": "Dans le cadre de l'ouverture de notre nouveau Restaurant combinant deux concepts de marque ultra-tendance de Tacos et Burger, nous recrutons 2 équipiers polyvalent(e)s de restauration temps plein ou temps partiel 25h minimum. \n\nVous avez le sens du service et vous êtes dynamique ? \nVous avez le souhait de vous investir dans la restauration et peut-être y évoluer significativement ? \n\nRejoignez notre équipe et participer à son développement à nos côtés.\n\nVous aurez pour missions  : \n\n- préparation en cuisine des commandes selon de nombreuses recettes définies \n- mise en place des produits (boissons, sandwiches, etc.) en vitrine \n- accueil des clients\n- prise des commandes \n- encaissement des commandes\n- suivi des dates limites de consommation et de la chaîne du froid \n- conditionnement et l'étiquetage des produits \n- gestion des stocks \n- entretien du matériel, de l'équipement et des locaux \n\nUne période de formation complète vous permettra de vous familiariser avec votre poste et vous sentir en parfaite autonomie dans votre travail d'équipe !",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/208RCGR",
+      "date": "2026-05-22",
+      "domaine": "RESTO",
+      "email_contact": "",
+      "niveau": 2,
+      "raison": "Restauration / evenementiel / accueil",
+      "jours_anciennete": 35,
+      "first_seen": "2026-06-01"
+    },
+    {
+      "source": "France Travail",
       "id": "208RBKZ",
       "titre": "Barmaid (H/F)",
       "entreprise": "L'ACCESS",
@@ -6692,7 +6607,7 @@
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
       "jours_anciennete": 36,
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -7700,7 +7615,7 @@
       "niveau": 2,
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
       "jours_anciennete": 57,
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -7863,24 +7778,6 @@
       "raison": "Metier proche (bureau etudes / CVC / DAO)",
       "jours_anciennete": 63,
       "first_seen": "2026-06-16"
-    },
-    {
-      "source": "France Travail",
-      "id": "207JXZB",
-      "titre": "Serveur / Serveuse de restaurant (H/F)",
-      "entreprise": "L'AUTHENTIK",
-      "ville": "69 - LYON 05",
-      "contrat": "CDD - 6 Mois",
-      "salaire": "Horaire de 13.0 Euros à 16.0 Euros sur 12.0 mois",
-      "description": "Nous recherchons un(e) serveur(se) en salle pour compléter notre équipe. Réactivité et sens du contact sont des qualités essentielles pour mener à bien vos missions, débutante(e) accepté(e).\n\nMissions :\n- Accueillir les clients et les installer.\n- Présenter le menu et prendre la commande.\n- Aller chercher les plats en cuisine et les servir.\n- Offrir les boissons puis débarrasser.\n- Présenter l'addition et encaisser.\n\nProfil :\n- Créer une relation avec les clients\n- Habilité à travailler dans environnement au rythme dynamique\n- Travailler en équipe.\n- Contrôle des règles et techniques du service.\n- Maîtrise parfaite de l'art relationnel.\n\n",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/207JXZB",
-      "date": "2026-04-23",
-      "domaine": "RESTO",
-      "email_contact": "",
-      "niveau": 2,
-      "raison": "Serveur/se / chef de rang",
-      "jours_anciennete": 64,
-      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -8078,7 +7975,7 @@
       "niveau": 2,
       "raison": "Restauration / evenementiel / accueil",
       "jours_anciennete": 93,
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -8469,40 +8366,6 @@
       "first_seen": "2026-06-26"
     },
     {
-      "source": "Indeed",
-      "id": "960eae1a5444",
-      "titre": "Happy équipier(e)",
-      "entreprise": "the sioou company",
-      "ville": "Lyon, ARA, FR",
-      "contrat": "parttime",
-      "salaire": "",
-      "description": "Pour compléter notre équipe de rêve, nous recrutons des serveur/euse DISPONIBLES LES MIDIS EN SEMAINE\n\nTu en as marre de la malbouffe ? Tu voudrais rejoindre une équipe jeune et dynamique ?Bien n’attend plus, SIOOU recrute !\n\nSIOOU est l'enseigne la plus hot du moment à Lyon. Depuis 7 ans, nous proposons une restauration qui allie simplicité et produits de qualité (du champ à l’assiette). Les salades et les bowl que nous servons à nos clients sont généreux et réalisés avec des ingrédients frais et locaux que nous préparons nous\\-meme chaque matin.\n\nNotre équipe est jeune et ambitieuse, nous sommes entièrement tournés vers la satisfaction de nos clients et donc vers l’exigence.\n\nAujourd'hui, notre équipe s’agrandit et nous cherchons de nouveaux talents souhaitant renforcer notre équipe\n\nLes qualités que nous recherchons : capacité de travail, autonomie, rigueur et sourire (contact client)\n\nExpérience dans la restauration ou autre secteur et référence exigée\n\nRémunération : 533,00€ à 800,00€ par mois\n\nAvantages :\n\n* Prise en charge du transport quotidien\n\nLieu du poste : En présentiel",
-      "url": "https://fr.indeed.com/viewjob?jk=b3638dfa3b4bef0a",
-      "date": "2026-06-25",
-      "domaine": "RESTO",
-      "niveau": 3,
-      "raison": "Profil transferable",
-      "jours_anciennete": 1,
-      "first_seen": "2026-06-25"
-    },
-    {
-      "source": "Indeed",
-      "id": "3f43588faf37",
-      "titre": "Technicien informatique (F/H)",
-      "entreprise": "Eurofins",
-      "ville": "Lyon, ARA, FR",
-      "contrat": "fulltime",
-      "salaire": "",
-      "description": "**Description de l'entreprise**  \n\nVous avez une âme de baroudeur et un vrai sens du terrain ? Vous aimez l’informatique, la technique, les défis et les projets concrets ? Ce poste est fait pour vous !\n\n\nAu sein du Groupe EUROFINS (7,296 milliards d’euros de chiffre d’affaires en 2025, plus de 950 laboratoires répartis dans 59 pays et environ 65000 personnes), l’un des leaders mondiaux sur le marché des services bio\\-analytiques, la division ‘‘Clinical Diagnostics’’ contribue au bien\\-être et à la santé de tous en fournissant à ses clients des services d'analyse et de conseil de haute qualité.\n\n\nEurofins Biologie Médicale, réseau de laboratoires national en pleine croissance, recherche dans un contexte de forts enjeux et de développement, un : **Technicien informatique (F/H)**\n\n\nDynamique, curieux et prêt à apprendre, vous serez formé au métier, à nos outils et nos méthodes, tout en intervenant directement sur des projets stratégiques.\n\n **Description du poste**  \n\nSous la responsabilité du Responsable Projet Infrastructure et Implémentation IT, vos missions principales seront notamment les suivantes :\n\n* Coordonner le déploiement informatique et télécom lors :\n* de l’ouverture de nouveaux laboratoires\n* du réaménagement ou déménagement de sites existants\n* de l’intégration dans le réseau de laboratoire des sites nouvellement acquis,\n* Suivre et piloter les projets sur le terrain : organisation, installation, tests, mise en service,\n* Utiliser les outils de reporting mis en place\n* Participer à l’industrialisation des processus de déploiement pour gagner en efficacité\n* Être un relais de terrain entre les équipes techniques et les équipes opérationnelles\n\n  \n\n**Qualifications**  \n\nVous avez une formation en informatique (Bac\\+2 à Bac\\+3\\) ou une forte appétence pour les systèmes informatiques et la téléphonie\n\n\nVous êtes autonome, organisé, rigoureux, débrouillard,\n\n\nVous appréciez la relation avec les utilisateurs et avez un bon sens du contact\n\n\nVous aimez le terrain, les déplacements réguliers, et les projets concrets\n\n\nVous êtes curieux, motivé, et vous avez envie d’apprendre\n\n\nDes notions de compréhension générales sur les domaines suivants sont nécessaires :\n\n* Environnements serveurs Linux \\& Windows\n* Solutions de virtualisation (VMWare, Veam, Proxmox),\n* Réseaux (Cisco) et Sécurité (Firewalls Sophos \\& Cisco ASA)\n* Téléphonie (Centrex)\n\n  \n\nLa maitrise de l’anglais serait un plus\n\n\nLe permis B est requis\n\n **Informations supplémentaires** **Localisation :**Lyon Grand Parilly\n\n**Contrat** **:** CDI, cadre au forfait jour (216 jours)\n\n**Rémunération :** à négocier selon profil et nombreux avantages : accord d’intéressement, autres accords internes, diverses actions QVT (participations à des événements sportifs et caritatifs…), télétravail, Carte Restaurant…\n\n**Pourquoi nous rejoindre ?**\n\n\nRejoindre Eurofins Biologie Médicale, c’est :\n\n* Participer à des projets **concrets et stratégiques** dans un secteur essentiel à la santé publique\n* Évoluer dans un **environnement stimulant et formateur**\n* Travailler avec des équipes **passionnées, dynamiques et engagées**\n* Contribuer à l’**expansion d’un réseau de laboratoires de référence**\n\n  \n\nLe GIE Eurofins Biomed France est engagé dans une politique mettant en avant la diversité et l’égalité et notamment par l'insertion des travailleurs handicapés. Une adaptation au poste selon les profils sera toujours étudiée.\n\n\nRejoignez\\-nous et construisez avec nous le futur de la biologie médicale !",
-      "url": "https://fr.indeed.com/viewjob?jk=bf15f987772f2176",
-      "date": "2026-06-25",
-      "domaine": "RESTO",
-      "niveau": 3,
-      "raison": "Profil transferable",
-      "jours_anciennete": 1,
-      "first_seen": "2026-06-25"
-    },
-    {
       "source": "France Travail",
       "id": "4161929",
       "titre": "Chargé D'affaires Btp H/f",
@@ -8575,23 +8438,6 @@
       "first_seen": "2026-06-26"
     },
     {
-      "source": "Indeed",
-      "id": "803b11b7ad84",
-      "titre": "Administrateur systèmes et réseaux H/F",
-      "entreprise": "Groupe Kardol",
-      "ville": "Lyon, ARA, FR",
-      "contrat": "fulltime",
-      "salaire": "",
-      "description": "Publié le 22/06/2026\n  \n  \n\nRésumé de l'offre\n  \n  \n\nContrat\n  \n  \n\nCDI Temps complet\n  \n  \n\nLieu de travail\n  \n  \n\nLyon (69\\)\n  \n  \n\nDiplôme\n  \n  \n\nInformatique systèmes et réseaux\n  \n  \n\nExpérience\n  \n  \n\n5 à 7 ans\n  \n  \n\nFiliale\n  \n  \n\nKardol\n  \n  \n\nDescriptif du poste\n  \n  \n\nVotre mission\n  \n  \n\nGarantir la disponibilité, la fiabilité et l’évolution de l’infrastructure SI, tout en assurant le support aux utilisateurs\n  \n  \n\nVotre équipe\n  \n  \n\nVous rejoindrez l’équipe informatique interne de Kardol (KSI)\n  \n  \n\nContexte du recrutement\n  \n  \n\nCréation de poste\n  \n  \n\nFourchette de salaire\n  \n  \n\n37\\-44K€ annuels\n  \n  \n\nCe que vous ferez\n  \n  \n\nGérer les différents projets d’évolution et d’intégration des solutions techniques dans le Système d’Informations\n  \n  \n\nRecueillir et analyser les besoins des utilisateurs\n  \n  \n\nMettre en oeuvre l’implantation des équipements, des réseaux et des interconnexions de l’ensemble des moyens informatiques de l’entreprise\n  \n  \n\nInstaller et administrer les systèmes d’exploitation (Windows, Linux etc.)\n  \n  \n\nAssurer les mises à jour et montées de versions des serveurs et postes de travail\n  \n  \n\nMesurer et optimiser les performances des systèmes\n  \n  \n\nAccompagner les utilisateurs à distance dans la résolution de leurs demandes\n  \n  \n\nSurveiller et analyser les différentes incidents systèmes, réseaux et Cyber\n  \n  \n\nGarantir la disponibilité et la fiabilité de l’infrastructure SI du site : sauvegardes, plans de reprise, administration des serveurs et des équipements réseaux locaux, etc.\n  \n  \n\nSuperviser, mesurer et optimiser les performances des systèmes et infrastructures\n  \n  \n\nGérer et maintenir à jour le parc informatique (postes de travail, inventaires, licences, correctifs, versions, etc.)\n  \n  \n\nPréparer, déployer et assurer le suivi du cycle de vie des postes de travail\n  \n  \n\nInstaller les matériels et logiciels du site et contribuer à l’automatisation des processus\n  \n  \n\nPrendre en charge les sollicitations des utilisateurs, diagnostiquer et traiter les demandes de 1er niveau dans le respect des niveaux de service définis, puis escalader au 2ème niveau si nécessaire\n  \n  \n\nAccompagner et former les utilisateurs aux bonnes pratiques IT ainsi qu’aux outils collaboratifs\n  \n  \n\nSurveiller, analyser et traiter les incidents systèmes, réseaux et cybersécurité\n  \n  \n\nRéaliser une veille technologique régulière afin d’anticiper les évolutions et de répondre aux besoins des utilisateurs\n  \n  \n\nCe qui fera la différence\n  \n  \n\nDe formation en Informatique Systèmes et Réseaux, vous justifiez d’une expérience de 5 à 7 ans en exploitation, gestion de projet et support d’environnements informatiques\n  \n  \n\nVous maîtrisez les serveurs Windows, Linux, environnement O365, Microsoft Intune, l’hyperviseur VMware, Veeam, Centreon\n  \n  \n\nVous avez une expérience de Chef de projet\n  \n  \n\nVous avez le sens du service utilisateur et une capacité d’analyse rigoureuse\n  \n  \n\nVous êtes autonome et surtout vous aimez travailler en équipe !\n  \n  \n\nCe que nous vous proposons\n  \n  \n\nUn parcours d'intégration dès votre arrivée, avec la Kardol Skool et des formations tout au long de votre parcours dans l’entreprise\n  \n  \n\nUn environnement de travail positif, agréable et dynamique, porté par des valeurs humaines et l'esprit collectif\n  \n  \n\nDes projets stimulants et diversifiés auprès d'entreprises aux enjeux métiers concrets\n  \n  \n\nDe l'autonomie, de la proximité managériale et des perspectives d'évolution au sein du Groupe Kardol\n  \n  \n\n89% de nos collaborateurs disent que le Groupe Kardol une entreprise où il fait vraiment bon travailler (Great Place to Work 2025\\)\n  \n  \n\nAvantages\n  \n  \n\nAccès illimité aux formations LinkedIn Learning\n  \n  \n\nAction logement\n  \n  \n\nAvantages CSE\n  \n  \n\nCharte télétravail\n  \n  \n\nCompte épargne temps\n  \n  \n\nIndemnités kilométriques vélo\n  \n  \n\nMutuelle Prévoyance\n  \n  \n\nPrime de participation\n  \n  \n\nPrime de vacances\n  \n  \n\nTickets Restaurant\n  \n  \n\n**Transports en commun :** abonnement pris en charge à 75%\n  \n  \n\n...\n  \n  \n\nÀ propos du Groupe Kardol\n  \n  \n\nActeur de la transition numérique des entreprises, le Groupe Kardol intègre des solutions de gestion d’entreprise et propose une palette complète de solutions et services cloud et infrastructures.\n  \n  \n\nAu sein du Groupe Kardol, nous prêtons une attention particulière à nos collaborateurs. Grâce à cela, nous avons été labellisés Happy@Work trois années de suite et depuis 2024 nous sommes une Great Place To Work !\n  \n  \n\nKardol, notre filiale historique experte de la solution ERP Sage X3\n  \nIntégrateur leader de l’ERP Sage X3, Kardol a conçu des solutions métiers dédiées aux entreprises industrielles et plus spécialement celles de l’automotive, de la plasturgie, la chimie et la pharmacie\\-cosmétique.\n  \n  \n\nRejoignez l'aventure !\n  \nAu sein du Groupe Kardol, nous sommes fiers de promouvoir un environnement de travail inclusif où chaque talent compte. Toutes les candidatures sont examinées de manière ég",
-      "url": "https://fr.indeed.com/viewjob?jk=cc731278af52a869",
-      "date": "2026-06-24",
-      "domaine": "RESTO",
-      "niveau": 3,
-      "raison": "Profil transferable",
-      "jours_anciennete": 2,
-      "first_seen": "2026-06-24"
-    },
-    {
       "source": "France Travail",
       "id": "4123087",
       "titre": "Chargé d'affaires bâtiment F/H - Commercial (H/F)",
@@ -8608,58 +8454,6 @@
       "raison": "Profil transferable",
       "jours_anciennete": 3,
       "first_seen": "2026-06-26"
-    },
-    {
-      "source": "France Travail",
-      "id": "4124624",
-      "titre": "Chef de projet bâtiment F/H - Etudes socio-économiques (H/F)",
-      "entreprise": "Fed Construction",
-      "ville": "69 - Lyon 4e Arrondissement",
-      "contrat": "CDD - 6 Mois",
-      "salaire": "",
-      "description": "Descriptif du poste:\n\n\nVous êtes conducteur de travaux ou Chef de projet H/F en bâtiment ? Vous souhaitez piloter des chantiers neufs ou de rénovation pour le compte d'un maitre d'ouvrage ?\n\nJe suis Jérémy RANDOING recruteur au sein de Fed Construction, cabinet spécialisé dans l'acte de construire basé à Lyon. Depuis 8 ans, j'accompagne les entreprises du secteur dans leurs recrutements de profils techniques et cadres en travaux, MOE, AMO et MOA. \n \nJe suis mandaté pour accompagner une entreprise d'envergure dans la recherche d'un Chef de projet immobilier en bâtiment. Ce poste s'adresse à un professionnel expérimenté capable de piloter des projets complexes de rénovation et de construction, tout en garantissant les objectifs de coûts, délais et qualité. \n \nDans le cadre de cette mission, vous contribuerez à la réalisation de grands projets immobiliers sur des immeubles de bureaux et des logements, en cohérence avec la stratégie et les schémas directeurs de l'entreprise. Vous serez le garant du succès du projet, de sa conception à sa livraison, en assurant un management transversal et une coordination optimale entre toutes les parties prenantes. \n \nVos principales responsabilités seront : \n- Sélection et contractualisation des prestataires intellectuels : AMOA, MOE, architectes, bureaux de contrôle, avec une attention particulière aux contrats cadres et aux procédures achats internes. \n- Participation aux études préalables et phases de conception des projets. \n- Sélection et contractualisation des fournisseurs, toujours dans le respect des procédures et en privilégiant les contrats cadres. \n \nPilotage de projets : \n- Assurer le respect des objectifs de coûts, délais et qualité \n- Gérer les risques et garantir la satisfaction client \n- Manager transversalement l'équipe projet et anticiper les besoins en ressources \n- Assurer la communication avec les bénéficiaires et organismes externes \n- Coordonner les parties prenantes internes et externes, gérer les interfaces et créer des synergies avec les autres directions impliquées \n- Suivi des travaux et transfert vers le service maintenance : réceptionner les travaux, assurer le suivi des garanties (GPA et décennale). \n- Participation aux études spécifiques dans votre domaine métier pour soutenir la réalisation des projets.\n\nProfil recherché:\n\n\nDe profil minimum Bac+5 en droit immobilier, urbanisme ou construction ; ingénierie immobilière, vous justifiez de minimum 5 ans à un poste équivalent, idéalement avec des projets de rénovation et d'efficacité énergétique. \n \nPoste à pourvoir en intérim pour une durée de 6 mois suite à un remplacement. \nRémunération sur 13 mois comprise entre 44 et 48 K € brute annuelle fonction de votre profil et expérience. \nAutres avantages liés à la société. \n \nCompétences clés : \n- Sens de la négociation et gestion contractuelle \n- Culture technique solide dans l'exécution des travaux, \n- Compétences confirmées en gestion de projet, \n- Qualités commerciales et excellent relationnel. \n \nSi vous êtes un Chef de projet immobilier passionné par la conduite de grands travaux et doté d'une expertise en rénovation et énergie, ce rôle vous permettra de mettre à profit vos compétences techniques, contractuelles et relationnelles dans un environnement stimulant.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4124624",
-      "date": "2026-06-23",
-      "domaine": "BIM",
-      "email_contact": "",
-      "niveau": 3,
-      "raison": "Profil transferable",
-      "jours_anciennete": 3,
-      "first_seen": "2026-06-25"
-    },
-    {
-      "source": "Indeed",
-      "id": "e9f01decc3b8",
-      "titre": "Ingénieur calcul structure et méthode en déconstruction (LYON) F/H",
-      "entreprise": "VINCI",
-      "ville": "Lyon, ARA, FR",
-      "contrat": "",
-      "salaire": "",
-      "description": "Cardem, filiale de Vinci\\-Construction, exerce son savoir\\-faire dans les travaux de curage, désamiantage et déconstruction grâce à la motivation et aux compétences de ses 600 salariés.\n\n  \n\n\n\nElle possède notamment des expertises en matière de démantèlements (urbains, industriels et nucléaires), revalorisation de sites industriels ou urbains, désamiantage, recyclage et revalorisation de déchets issus de nos chantiers de démolition.\n\n  \n\n\n\nhttps://www.cardem.fr\n\n  \n\n\n**Mission :**\n\n  \n\n\n\nSous la responsabilité hiérarchique du Directeur Technique de Cardem.\n\n  \n\n\n\nVos objectifs seront d’assister techniquement les chantiers sur les phases complexes de déconstruction et de levage.\n\n  \n\n\n\nVous devrez :\n\n\n* Concevoir des scénarios de déconstruction\n\n\n* Calculer la stabilité provisoire en cours de déconstruction d’ouvrage béton, métal, bois ou process industriel\n\n\n* Calculer le renforcement provisoire de structure (étaiement, buton …)\n\n\n* Rédiger des modes opératoires de déconstruction\n\n\n* Calculer et rédiger des opérations de levage\n\n  \n\n\n\nVidéo de CARDEM\n\n **Profil recherché :**\n\n  \n\n\n\nIngénieur de formation vous avez minimum 5 à 10 années d’expérience en démolition, en structures métalliques ou en Génie Civil (maitrise du calcul obligatoire sous Eurocode)\n\n  \n\n\n\nVous êtes rigoureux, imaginatif, persuasif et doté d’excellentes qualités rédactionnelles.\n\n  \n\n\n\nVous savez appréhender, analyser et gérer les aléas pour transformer les risques en opportunités. Vous êtes ouverts aux nouvelles technologies des systèmes d’information (BIM…).\n\n  \n\n\n\nVous attachez de l'importance au respect de l'éthique.\n\n  \n\n\n\nLe poste est basé à Lyon et nos chantiers sont sur l’ensemble du territoire.\n\n\nVINCI Construction est l'un des principaux acteurs mondiaux de la construction, dans le domaine des infrastructures de transport, des bâtiments, des réseaux et des aménagements urbains. VINCI Construction s'appuie sur un réseau d'entreprises de proximité, des réseaux de spécialité et une expertise spécifique sur les grands projets d'infrastructures. Présentes dans plus de 100 pays, ses 1 300 entreprises emploient plus de 119 000 collaborateurs et ont réalisé un chiffre d'affaires de 31,5 milliards d'euros",
-      "url": "https://fr.indeed.com/viewjob?jk=41835e43a54c463f",
-      "date": "2026-06-23",
-      "domaine": "BIM",
-      "niveau": 3,
-      "raison": "Profil transferable",
-      "jours_anciennete": 3,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "source": "Indeed",
-      "id": "c09c990613b0",
-      "titre": "Gestionnaire Administratif H/F",
-      "entreprise": "Crédit Agricole",
-      "ville": "Lyon, ARA, FR",
-      "contrat": "nan",
-      "salaire": "",
-      "description": "**Description du poste**\n------------------------\n\n*Société du groupe Crédit Agricole Assurances, UAF LIFE Patrimoine est une plateforme de distribution de produits financiers et d'assurance à destination de professionnels du patrimoine.*\n\nNous recrutons un gestionnaire administratif en CDD de remplacement de congé maternité.\n\n\nAu sein du service Logistique, vous contribuez au traitement des flux entrants (courriers, e\\-mails et serveurs) et des actes de gestion administratifs :\n\n\n* Ouvrir du courrier et préparer des lots de courrier par assureur et types de produits\n* Numériser des documents\n* Créer des opérations dans le CRM\n* Prendre en charge et traiter des opérations administratives sur les contrats des clients, en application des règles de gestion en vigueur\n* Contrôler la qualité des opérations d’affaires nouvelles\n* Réaliser d’autres tâches administratives nécessaires au bon fonctionnement du service logistique (procédures, …)\n\n**Les avantages :**\n\nSi vous avez envie de nous rejoindre, sachez que nous pourrons vous offrir les avantages d'une jeune société de courtage, dynamique, innovante, à taille humaine et des espaces de travail coopératifs, stimulant l'innovation et contribuant au bien être des collaborateurs idéalement situés à Lyon Part Dieu, en face de la gare, avec de nombreux avantages à la clé :\n\n\n* Équilibre vie pro\\-vie perso (jusqu'à 2 jours de télétravail/semaine)\n* 26 jours de congés payés \\+ une dizaine de RTT\n* Une rémunération fixe \\+ un variable collectif et un dispositif d'épargne salariale (PEE et PERCOL)\n* Mutuelle prise en charge à 80% et prévoyance à 100%.\n* Titres restaurant dématérialisés avec une valeur du titre de 12€20 (part employeur à 60%, part salarié 40%).\n* Forfait mobilité durable jusqu'à 800€ par an (part employeur à 60%)\n* Des avantages sur les produits d'assurance, avantages CSE, surcomplémentaire retraite.\nTélétravail : hybride\n\n\n  \n* **Critères de candidature**\n---------------------------\n\nDate de prise de fonction\n15/07/2026\nDurée\n5\nPoste avec management\nNon\nCadre / Non Cadre\nNon cadre\nNiveau d'étude minimum\nBac \\+ 2 / L2\nFormation / Spécialisation\nDe formation Bac \\+2 en assurance, banque, juridique, gestion.  \n\n  \n\n\n\nVous bénéficiez idéalement d'une première expérience en back office ou sur une plateforme téléphonique spécialisée dans le secteur assurantiel ou sur un poste similaire.\n\n\nNiveau d'expérience minimum\n0 \\- 2 ans\nCompétences recherchées\nRigueur, réactivité, bonne capacité d'adaptation, sens de l'organisation, esprit d'équipe et du service client.\nOutils informatiques\nAisance sur les outils informatiques.\nSalaire\n27 000 € / an\n* **Entreprise Crédit Agricole Assurances**\n-----------------------------------------\n\nLe groupe Crédit Agricole Assurances est le premier bancassureur en France et l'un des acteurs majeurs en Europe.\n  \n\n  \n\nIl conçoit des offres au plus près des besoins de ses clients dans les domaines suivants : Assurance Vie, Retraite, Santé, Prévoyance, Assurance emprunteur et Assurances dommages.\n  \n\n  \n\nUAF Life Patrimoine est une plateforme de distribution de produits financiers et d'assurance qui conçoit, commercialise et gère des produits et services dans le domaine du placement financier (assurance\\-vie, épargne, retraite, produits de défiscalisation...).\n  \n\n  \n\nEn agissant chaque jour dans l'intérêt de la société, nous sommes un groupe engagé en faveur des diversités et de l'inclusion et plaçons l'humain au cœur de toutes nos transformations. Tous nos postes sont ouverts aux personnes en situation de handicap.",
-      "url": "https://fr.indeed.com/viewjob?jk=a8f8646fa4726272",
-      "date": "2026-06-23",
-      "domaine": "RESTO",
-      "niveau": 3,
-      "raison": "Profil transferable",
-      "jours_anciennete": 3,
-      "first_seen": "2026-06-23"
     },
     {
       "source": "France Travail",
@@ -8727,6 +8521,40 @@
       "url": "https://fr.indeed.com/viewjob?jk=0982e75679c29215",
       "date": "2026-06-22",
       "domaine": "BIM",
+      "niveau": 3,
+      "raison": "Profil transferable",
+      "jours_anciennete": 4,
+      "first_seen": "2026-06-22"
+    },
+    {
+      "source": "Indeed",
+      "id": "e9f01decc3b8",
+      "titre": "Ingénieur calcul structure et méthode en déconstruction (LYON) F/H",
+      "entreprise": "VINCI",
+      "ville": "Lyon, ARA, FR",
+      "contrat": "nan",
+      "salaire": "",
+      "description": "Cardem, filiale de Vinci\\-Construction, exerce son savoir\\-faire dans les travaux de curage, désamiantage et déconstruction grâce à la motivation et aux compétences de ses 600 salariés.\n\n  \n\n\n\nElle possède notamment des expertises en matière de démantèlements (urbains, industriels et nucléaires), revalorisation de sites industriels ou urbains, désamiantage, recyclage et revalorisation de déchets issus de nos chantiers de démolition.\n\n  \n\n\n\nhttps://www.cardem.fr\n\n  \n\n\n**Mission :**\n\n  \n\n\n\nSous la responsabilité hiérarchique du Directeur Technique de Cardem.\n\n  \n\n\n\nVos objectifs seront d’assister techniquement les chantiers sur les phases complexes de déconstruction et de levage.\n\n  \n\n\n\nVous devrez :\n\n\n* Concevoir des scénarios de déconstruction\n\n\n* Calculer la stabilité provisoire en cours de déconstruction d’ouvrage béton, métal, bois ou process industriel\n\n\n* Calculer le renforcement provisoire de structure (étaiement, buton …)\n\n\n* Rédiger des modes opératoires de déconstruction\n\n\n* Calculer et rédiger des opérations de levage\n\n  \n\n\n\nVidéo de CARDEM\n\n **Profil recherché :**\n\n  \n\n\n\nIngénieur de formation vous avez minimum 5 à 10 années d’expérience en démolition, en structures métalliques ou en Génie Civil (maitrise du calcul obligatoire sous Eurocode)\n\n  \n\n\n\nVous êtes rigoureux, imaginatif, persuasif et doté d’excellentes qualités rédactionnelles.\n\n  \n\n\n\nVous savez appréhender, analyser et gérer les aléas pour transformer les risques en opportunités. Vous êtes ouverts aux nouvelles technologies des systèmes d’information (BIM…).\n\n  \n\n\n\nVous attachez de l'importance au respect de l'éthique.\n\n  \n\n\n\nLe poste est basé à Lyon et nos chantiers sont sur l’ensemble du territoire.\n\n\nVINCI Construction est l'un des principaux acteurs mondiaux de la construction, dans le domaine des infrastructures de transport, des bâtiments, des réseaux et des aménagements urbains. VINCI Construction s'appuie sur un réseau d'entreprises de proximité, des réseaux de spécialité et une expertise spécifique sur les grands projets d'infrastructures. Présentes dans plus de 100 pays, ses 1 300 entreprises emploient plus de 119 000 collaborateurs et ont réalisé un chiffre d'affaires de 31,5 milliards d'euros",
+      "url": "https://fr.indeed.com/viewjob?jk=41835e43a54c463f",
+      "date": "2026-06-22",
+      "domaine": "BIM",
+      "niveau": 3,
+      "raison": "Profil transferable",
+      "jours_anciennete": 4,
+      "first_seen": "2026-06-22"
+    },
+    {
+      "source": "Indeed",
+      "id": "c09c990613b0",
+      "titre": "Gestionnaire Administratif H/F",
+      "entreprise": "Crédit Agricole",
+      "ville": "Lyon, ARA, FR",
+      "contrat": "nan",
+      "salaire": "",
+      "description": "**Description du poste**\n------------------------\n\n*Société du groupe Crédit Agricole Assurances, UAF LIFE Patrimoine est une plateforme de distribution de produits financiers et d'assurance à destination de professionnels du patrimoine.*\n\nNous recrutons un gestionnaire administratif en CDD de remplacement de congé maternité.\n\n\nAu sein du service Logistique, vous contribuez au traitement des flux entrants (courriers, e\\-mails et serveurs) et des actes de gestion administratifs :\n\n\n* Ouvrir du courrier et préparer des lots de courrier par assureur et types de produits\n* Numériser des documents\n* Créer des opérations dans le CRM\n* Prendre en charge et traiter des opérations administratives sur les contrats des clients, en application des règles de gestion en vigueur\n* Contrôler la qualité des opérations d’affaires nouvelles\n* Réaliser d’autres tâches administratives nécessaires au bon fonctionnement du service logistique (procédures, …)\n\n**Les avantages :**\n\nSi vous avez envie de nous rejoindre, sachez que nous pourrons vous offrir les avantages d'une jeune société de courtage, dynamique, innovante, à taille humaine et des espaces de travail coopératifs, stimulant l'innovation et contribuant au bien être des collaborateurs idéalement situés à Lyon Part Dieu, en face de la gare, avec de nombreux avantages à la clé :\n\n\n* Équilibre vie pro\\-vie perso (jusqu'à 2 jours de télétravail/semaine)\n* 26 jours de congés payés \\+ une dizaine de RTT\n* Une rémunération fixe \\+ un variable collectif et un dispositif d'épargne salariale (PEE et PERCOL)\n* Mutuelle prise en charge à 80% et prévoyance à 100%.\n* Titres restaurant dématérialisés avec une valeur du titre de 12€20 (part employeur à 60%, part salarié 40%).\n* Forfait mobilité durable jusqu'à 800€ par an (part employeur à 60%)\n* Des avantages sur les produits d'assurance, avantages CSE, surcomplémentaire retraite.\nTélétravail : hybride\n\n\n  \n* **Critères de candidature**\n---------------------------\n\nDate de prise de fonction\n15/07/2026\nDurée\n5\nPoste avec management\nNon\nCadre / Non Cadre\nNon cadre\nNiveau d'étude minimum\nBac \\+ 2 / L2\nFormation / Spécialisation\nDe formation Bac \\+2 en assurance, banque, juridique, gestion.  \n\n  \n\n\n\nVous bénéficiez idéalement d'une première expérience en back office ou sur une plateforme téléphonique spécialisée dans le secteur assurantiel ou sur un poste similaire.\n\n\nNiveau d'expérience minimum\n0 \\- 2 ans\nCompétences recherchées\nRigueur, réactivité, bonne capacité d'adaptation, sens de l'organisation, esprit d'équipe et du service client.\nOutils informatiques\nAisance sur les outils informatiques.\nSalaire\n27 000 € / an\n* **Entreprise Crédit Agricole Assurances**\n-----------------------------------------\n\nLe groupe Crédit Agricole Assurances est le premier bancassureur en France et l'un des acteurs majeurs en Europe.\n  \n\n  \n\nIl conçoit des offres au plus près des besoins de ses clients dans les domaines suivants : Assurance Vie, Retraite, Santé, Prévoyance, Assurance emprunteur et Assurances dommages.\n  \n\n  \n\nUAF Life Patrimoine est une plateforme de distribution de produits financiers et d'assurance qui conçoit, commercialise et gère des produits et services dans le domaine du placement financier (assurance\\-vie, épargne, retraite, produits de défiscalisation...).\n  \n\n  \n\nEn agissant chaque jour dans l'intérêt de la société, nous sommes un groupe engagé en faveur des diversités et de l'inclusion et plaçons l'humain au cœur de toutes nos transformations. Tous nos postes sont ouverts aux personnes en situation de handicap.",
+      "url": "https://fr.indeed.com/viewjob?jk=a8f8646fa4726272",
+      "date": "2026-06-22",
+      "domaine": "RESTO",
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 4,
@@ -8904,7 +8732,7 @@
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 7,
-      "first_seen": "2026-06-23"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -9226,7 +9054,7 @@
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 10,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -9386,7 +9214,7 @@
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 14,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "Indeed",
@@ -10198,7 +10026,7 @@
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 29,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -10216,7 +10044,7 @@
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 29,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -10234,7 +10062,7 @@
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 29,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -10324,7 +10152,7 @@
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 30,
-      "first_seen": "2026-06-24"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
@@ -10378,7 +10206,7 @@
       "niveau": 3,
       "raison": "Profil transferable",
       "jours_anciennete": 31,
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-22"
     },
     {
       "source": "France Travail",
