@@ -729,16 +729,11 @@ let genereesData  = [];
 let genereesByUrl = {};
 
 function genererEml(g) {
-  // 1. Si le fichier .eml existe -> telechargement (ouvre Outlook via .eml)
+  // 1. Si le fichier .eml existe -> lien direct (corps + pieces jointes)
   if (g.eml_file) {
     const url = "https://raw.githubusercontent.com/silent-cron/offres-selector/main/drafts/"
       + encodeURIComponent(g.eml_file);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = g.eml_file;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
+    window.location.href = url;
     return;
   }
   // 2. Fallback mailto: si pas de fichier .eml
