@@ -1,5 +1,53 @@
 [
   {
+    "url": "https://fr.indeed.com/viewjob?jk=66044613f449d1e3",
+    "entreprise": "The Ruck Hôtel",
+    "titre": "Chef de rang (F/H) - Semaine à 4 jours",
+    "domaine": "RESTO",
+    "pertinence": 68,
+    "tri_ordre": 1,
+    "email_rh": "",
+    "eml_file": "Email_The_Ruck_Hôtel_Chef_de_rang_FH_Semaine_à_4_jours_06.2026.eml",
+    "statut": "GENERE",
+    "date": "27/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=b9e8777b56c8bcec",
+    "entreprise": "Inconnue",
+    "titre": "Technicienne BIM / Dessinatrice Mécanique du bâtiment",
+    "domaine": "BIM",
+    "pertinence": 10,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_Inconnue_Technicienne_BIM_Dessinatrice_Mécanique_du_bâtiment_06.2026.eml",
+    "statut": "GENERE",
+    "date": "27/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=071075df2b193308",
+    "entreprise": "Anonyme",
+    "titre": "Extra serveur H/F",
+    "domaine": "RESTO",
+    "pertinence": 94,
+    "tri_ordre": 1,
+    "email_rh": "",
+    "eml_file": "Email_Anonyme_Extra_serveur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "27/06/2026"
+  },
+  {
+    "url": "https://fr.indeed.com/viewjob?jk=78f3ad532671fa95",
+    "entreprise": "Double Regard Architecture",
+    "titre": "Assistant architecte/dessinateur H/F",
+    "domaine": "BIM",
+    "pertinence": 70,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "eml_file": "Email_Double_Regard_Architecture_Assistant_architectedessinateur_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "27/06/2026"
+  },
+  {
     "url": "https://fr.indeed.com/viewjob?jk=bb31ff3ae7d5ea77",
     "entreprise": "Château de Chapeau Cornu",
     "titre": "Barman polyvalent H/F",
