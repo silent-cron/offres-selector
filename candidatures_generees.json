@@ -1,5 +1,57 @@
 [
   {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4297512",
+    "entreprise": "ARTICHAUT",
+    "titre": "Demi-chef / Demi-cheffe de rang (H/F)",
+    "domaine": "BIM",
+    "pertinence": 72,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "emails_snov_io": [],
+    "eml_file": "Email_ARTICHAUT_Demi_chef_Demi_cheffe_de_rang_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "29/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4297833",
+    "entreprise": "GALIA",
+    "titre": "Serveur / Serveuse de restaurant (H/F)",
+    "domaine": "RESTO",
+    "pertinence": 90,
+    "tri_ordre": 1,
+    "email_rh": "",
+    "emails_snov_io": [],
+    "eml_file": "Email_GALIA_Serveur_Serveuse_de_restaurant_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "29/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4309883",
+    "entreprise": "En tant qu'organisateur de forums de",
+    "titre": "Technicien génie civil (H/F)",
+    "domaine": "BIM",
+    "pertinence": 32,
+    "tri_ordre": 0,
+    "email_rh": "",
+    "emails_snov_io": [],
+    "eml_file": "Email_En_tant_quorganisateur_de_forums_de_Technicien_génie_civil_HF_06.2026.eml",
+    "statut": "GENERE",
+    "date": "29/06/2026"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/4355936",
+    "entreprise": "Ville de Lyon",
+    "titre": "agent spécialisé restauration scolaire H/F - EC21692",
+    "domaine": "RESTO",
+    "pertinence": 74,
+    "tri_ordre": 1,
+    "email_rh": "",
+    "emails_snov_io": [],
+    "eml_file": "Email_Ville_de_Lyon_agent_spécialisé_restauration_scolaire_HF_EC21692_06.2026.eml",
+    "statut": "GENERE",
+    "date": "29/06/2026"
+  },
+  {
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/4325947",
     "entreprise": "Recruteur",
     "titre": "Chargé d'affaires travaux CVC H/F",
